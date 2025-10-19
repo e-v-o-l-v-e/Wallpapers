@@ -1,636 +1,933 @@
+# funny/this-wallpaper-is-not-available.png
+![](./funny/this-wallpaper-is-not-available.png)
 
-## 86-lena.jpg
-![](86-lena.jpg)
+# funny/wallpaper.png
+![](./funny/wallpaper.png)
 
+# funny/war-in-space.png
+![](./funny/war-in-space.png)
 
-## a_beach_with_trees_on_the_side.jpg
-![](a_beach_with_trees_on_the_side.jpg)
+# gruvbox/a_house_in_the_woods.png
+![](./gruvbox/a_house_in_the_woods.png)
 
+# gruvbox/a_lake_with_trees_and_clouds.png
+![](./gruvbox/a_lake_with_trees_and_clouds.png)
 
-## a_bed_with_a_view_of_trees_outside.jpg
-![](a_bed_with_a_view_of_trees_outside.jpg)
+# gruvbox/ALLqk82.png
+![](./gruvbox/ALLqk82.png)
 
+# gruvbox/anime_skull.png
+![](./gruvbox/anime_skull.png)
 
-## a_bird_on_a_branch.jpg
-![](a_bird_on_a_branch.jpg)
+# gruvbox/animeskull.png
+![](./gruvbox/animeskull.png)
 
+# gruvbox/astronaut-3.png
+![](./gruvbox/astronaut-3.png)
 
-## a_boat_on_the_water.jpg
-![](a_boat_on_the_water.jpg)
+# gruvbox/atoms.png
+![](./gruvbox/atoms.png)
 
+# gruvbox/beach.png
+![](./gruvbox/beach.png)
 
-## a_body_of_water_with_a_lit_up_tower_in_the_middle.png
-![](a_body_of_water_with_a_lit_up_tower_in_the_middle.png)
+# gruvbox/bird.png
+![](./gruvbox/bird.png)
 
+# gruvbox/birds.png
+![](./gruvbox/birds.png)
 
-## a_bookshelf_with_lights_from_the_ceiling.jpeg
-![](a_bookshelf_with_lights_from_the_ceiling.jpeg)
+# gruvbox/black-hole.png
+![](./gruvbox/black-hole.png)
 
+# gruvbox/burnout.png
+![](./gruvbox/burnout.png)
 
-## a_building_and_trees_at_night.jpg
-![](a_building_and_trees_at_night.jpg)
+# gruvbox/bush.png
+![](./gruvbox/bush.png)
 
+# gruvbox/cabin-gruvbox.png
+![](./gruvbox/cabin-gruvbox.png)
 
-## a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png
-![](a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png)
+# gruvbox/cabin.png
+![](./gruvbox/cabin.png)
 
+# gruvbox/cactus.png
+![](./gruvbox/cactus.png)
 
-## a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg
-![](a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg)
+# gruvbox/camera.png
+![](./gruvbox/camera.png)
 
+# gruvbox/cat-coffee.png
+![](./gruvbox/cat-coffee.png)
 
-## a_cartoon_of_a_whale_flying_over_a_road.jpg
-![](a_cartoon_of_a_whale_flying_over_a_road.jpg)
+# gruvbox/cherry-blossom.png
+![](./gruvbox/cherry-blossom.png)
 
+# gruvbox/code_blocks_light.png
+![](./gruvbox/code_blocks_light.png)
 
-## a_cartoon_of_a_woman_holding_a_cup.jpg
-![](a_cartoon_of_a_woman_holding_a_cup.jpg)
+# gruvbox/coding-2.png
+![](./gruvbox/coding-2.png)
 
+# gruvbox/Colors.png
+![](./gruvbox/Colors.png)
 
-## a_close_up_of_a_plant.png
-![](a_close_up_of_a_plant.png)
+# gruvbox/Colors_1.png
+![](./gruvbox/Colors_1.png)
 
+# gruvbox/cyber-asian-girl-1080.png
+![](./gruvbox/cyber-asian-girl-1080.png)
 
-## a_close_up_of_moss_on_a_branch.jpg
-![](a_close_up_of_moss_on_a_branch.jpg)
+# gruvbox/debian_grey_swirl.png
+![](./gruvbox/debian_grey_swirl.png)
 
+# gruvbox/DemonChild.png
+![](./gruvbox/DemonChild.png)
 
-## a_foggy_landscape_with_trees_and_grass.jpg
-![](a_foggy_landscape_with_trees_and_grass.jpg)
+# gruvbox/dock.png
+![](./gruvbox/dock.png)
 
+# gruvbox/door.png
+![](./gruvbox/door.png)
 
-## a_forest_with_moss_and_trees.jpg
-![](a_forest_with_moss_and_trees.jpg)
+# gruvbox/forest-foggy-misty-cloudy.png
+![](./gruvbox/forest-foggy-misty-cloudy.png)
 
+# gruvbox/forest-foggy-misty-cloudy_1.png
+![](./gruvbox/forest-foggy-misty-cloudy_1.png)
 
-## a_group_of_light_bulbs_from_the_ceiling.jpg
-![](a_group_of_light_bulbs_from_the_ceiling.jpg)
+# gruvbox/forest-moss.png
+![](./gruvbox/forest-moss.png)
 
+# gruvbox/girl-2.png
+![](./gruvbox/girl-2.png)
 
-## a_group_of_men_standing_on_a_beach.jpg
-![](a_group_of_men_standing_on_a_beach.jpg)
+# gruvbox/girl-reading-book.png
+![](./gruvbox/girl-reading-book.png)
 
+# gruvbox/gruv-dev-minimal.png
+![](./gruvbox/gruv-dev-minimal.png)
 
-## a_house_in_the_woods.png
-![](a_house_in_the_woods.png)
+# gruvbox/gruv-estimate.png
+![](./gruvbox/gruv-estimate.png)
 
+# gruvbox/gruv-mistakes.png
+![](./gruvbox/gruv-mistakes.png)
 
-## a_lake_with_trees_and_clouds.png
-![](a_lake_with_trees_and_clouds.png)
+# gruvbox/gruv-portal-cake.png
+![](./gruvbox/gruv-portal-cake.png)
 
+# gruvbox/gruvbox-linux.png
+![](./gruvbox/gruvbox-linux.png)
 
-## a_light_bulb_from_the_ceiling_01.jpg
-![](a_light_bulb_from_the_ceiling_01.jpg)
+# gruvbox/gruvbox-nix.png
+![](./gruvbox/gruvbox-nix.png)
 
+# gruvbox/gruvbox-rainbow-nix.png
+![](./gruvbox/gruvbox-rainbow-nix.png)
 
-## a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg
-![](a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg)
+# gruvbox/gruvbox_image11.png
+![](./gruvbox/gruvbox_image11.png)
 
+# gruvbox/gruvbox_image31.png
+![](./gruvbox/gruvbox_image31.png)
 
-## a_moon_and_clouds_at_night.jpg
-![](a_moon_and_clouds_at_night.jpg)
+# gruvbox/gruvbox_image46.png
+![](./gruvbox/gruvbox_image46.png)
 
+# gruvbox/gruvbox_minimal_space.png
+![](./gruvbox/gruvbox_minimal_space.png)
 
-## a_person_in_the_air_above_a_city.png
-![](a_person_in_the_air_above_a_city.png)
+# gruvbox/harmony.png
+![](./gruvbox/harmony.png)
 
+# gruvbox/herb-notebook.png
+![](./gruvbox/herb-notebook.png)
 
-## a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png
-![](a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png)
+# gruvbox/house-garden.png
+![](./gruvbox/house-garden.png)
 
+# gruvbox/image21.png
+![](./gruvbox/image21.png)
 
-## a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png
-![](a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
+# gruvbox/Knights.png
+![](./gruvbox/Knights.png)
 
+# gruvbox/landscape.png
+![](./gruvbox/landscape.png)
 
-## a_pond_with_lily_pads_and_a_wooden_fence.png
-![](a_pond_with_lily_pads_and_a_wooden_fence.png)
+# gruvbox/leaves-wall.png
+![](./gruvbox/leaves-wall.png)
 
+# gruvbox/moss-forest.png
+![](./gruvbox/moss-forest.png)
 
-## a_river_running_through_a_forest.jpg
-![](a_river_running_through_a_forest.jpg)
+# gruvbox/mountain-village.png
+![](./gruvbox/mountain-village.png)
 
+# gruvbox/Pages.png
+![](./gruvbox/Pages.png)
 
-## a_river_running_through_a_rocky_canyon.jpg
-![](a_river_running_through_a_rocky_canyon.jpg)
+# gruvbox/philosophy.png
+![](./gruvbox/philosophy.png)
 
+# gruvbox/PJbX0MG.png
+![](./gruvbox/PJbX0MG.png)
 
-## a_road_leading_to_mountains.jpg
-![](a_road_leading_to_mountains.jpg)
+# gruvbox/PJbX0MG_1.png
+![](./gruvbox/PJbX0MG_1.png)
 
+# gruvbox/rain.png
+![](./gruvbox/rain.png)
 
-## a_road_with_lights_on_the_side_of_a_body_of_water.jpg
-![](a_road_with_lights_on_the_side_of_a_body_of_water.jpg)
+# gruvbox/rocket.png
+![](./gruvbox/rocket.png)
 
+# gruvbox/rubiks-cube.png
+![](./gruvbox/rubiks-cube.png)
 
-## a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg
-![](a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg)
+# gruvbox/satellites.png
+![](./gruvbox/satellites.png)
 
+# gruvbox/Sif.png
+![](./gruvbox/Sif.png)
 
-## a_stone_stairs_in_a_forest.jpg
-![](a_stone_stairs_in_a_forest.jpg)
+# gruvbox/Suki.png
+![](./gruvbox/Suki.png)
 
+# gruvbox/Tranquility.png
+![](./gruvbox/Tranquility.png)
 
-## a_stream_in_the_woods.jpg
-![](a_stream_in_the_woods.jpg)
+# gruvbox/tree-sunny.png
+![](./gruvbox/tree-sunny.png)
 
+# gruvbox/warm_forest.png
+![](./gruvbox/warm_forest.png)
 
-## a_woman_sitting_in_a_chair_under_a_tent.png
-![](a_woman_sitting_in_a_chair_under_a_tent.png)
+# gruvbox/water_droplets_on_a_puddle.png
+![](./gruvbox/water_droplets_on_a_puddle.png)
 
+# gruvbox/window.png
+![](./gruvbox/window.png)
 
-## anime_girl_with_curtains.jpg
-![](anime_girl_with_curtains.jpg)
+# gruvbox/wood_cabin.png
+![](./gruvbox/wood_cabin.png)
 
+# tokyonight/a_person_in_the_air_above_a_city.png
+![](./tokyonight/a_person_in_the_air_above_a_city.png)
 
-## anime_skull.png
-![](anime_skull.png)
+# tokyonight/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png
+![](./tokyonight/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png)
 
+# tokyonight/blue-crane.png
+![](./tokyonight/blue-crane.png)
 
-## astronaut-2.png
-![](astronaut-2.png)
+# tokyonight/Clearnight.png
+![](./tokyonight/Clearnight.png)
 
+# tokyonight/dark_forest.png
+![](./tokyonight/dark_forest.png)
 
-## astronaut-3.png
-![](astronaut-3.png)
+# tokyonight/ign-waifu.png
+![](./tokyonight/ign-waifu.png)
 
+# tokyonight/mocha-hald8-1396456.png
+![](./tokyonight/mocha-hald8-1396456.png)
 
-## astronaut.jpg
-![](astronaut.jpg)
+# tokyonight/nix-black.png
+![](./tokyonight/nix-black.png)
 
+# tokyonight/nix_light.png
+![](./tokyonight/nix_light.png)
 
-## autumn.jpg
-![](autumn.jpg)
+# tokyonight/pastelgirl.png
+![](./tokyonight/pastelgirl.png)
 
+# unsorted/a_body_of_water_with_a_lit_up_tower_in_the_middle.png
+![](./unsorted/a_body_of_water_with_a_lit_up_tower_in_the_middle.png)
 
-## berries.jpg
-![](berries.jpg)
+# unsorted/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png
+![](./unsorted/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png)
 
+# unsorted/a_close_up_of_a_plant.png
+![](./unsorted/a_close_up_of_a_plant.png)
 
-## blue-bridge.jpg
-![](blue-bridge.jpg)
+# unsorted/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png
+![](./unsorted/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
 
+# unsorted/a_pond_with_lily_pads_and_a_wooden_fence.png
+![](./unsorted/a_pond_with_lily_pads_and_a_wooden_fence.png)
 
-## blue-crane.png
-![](blue-crane.png)
+# unsorted/a_woman_sitting_in_a_chair_under_a_tent.png
+![](./unsorted/a_woman_sitting_in_a_chair_under_a_tent.png)
 
+# unsorted/astronaut-2.png
+![](./unsorted/astronaut-2.png)
 
-## blue-wolf.jpg
-![](blue-wolf.jpg)
+# unsorted/castle.png
+![](./unsorted/castle.png)
 
+# unsorted/degirled.png
+![](./unsorted/degirled.png)
 
-## building-rain.jpg
-![](building-rain.jpg)
+# unsorted/earth.png
+![](./unsorted/earth.png)
 
+# unsorted/evening.png
+![](./unsorted/evening.png)
 
-## bulbs.jpg
-![](bulbs.jpg)
+# unsorted/everythings-gonna-be-okay.png
+![](./unsorted/everythings-gonna-be-okay.png)
 
+# unsorted/flower_branch.png
+![](./unsorted/flower_branch.png)
 
-## castle.jpg
-![](castle.jpg)
+# unsorted/forest_castle.png
+![](./unsorted/forest_castle.png)
 
+# unsorted/frieren_gruvbox.png
+![](./unsorted/frieren_gruvbox.png)
 
-## castle.png
-![](castle.png)
+# unsorted/ghibli-japanese-walled-garden.png
+![](./unsorted/ghibli-japanese-walled-garden.png)
 
+# unsorted/girl-hood-ears.png
+![](./unsorted/girl-hood-ears.png)
 
-## city_on_water.jpg
-![](city_on_water.jpg)
+# unsorted/house-magical-cat.png
+![](./unsorted/house-magical-cat.png)
 
+# unsorted/little_nap.png
+![](./unsorted/little_nap.png)
 
-## classroom.jpg
-![](classroom.jpg)
+# unsorted/lonely-girl.png
+![](./unsorted/lonely-girl.png)
 
+# unsorted/manga-lake.png
+![](./unsorted/manga-lake.png)
 
-## Clearday.jpg
-![](Clearday.jpg)
+# unsorted/messed-up-room.png
+![](./unsorted/messed-up-room.png)
 
+# unsorted/my-neighbor-totoro-sunflowers.png
+![](./unsorted/my-neighbor-totoro-sunflowers.png)
 
-## Clearnight.png
-![](Clearnight.png)
+# unsorted/mystic-shush.png
+![](./unsorted/mystic-shush.png)
 
+# unsorted/nature-lake.png
+![](./unsorted/nature-lake.png)
 
-## climber.jpg
-![](climber.jpg)
+# unsorted/sky.png
+![](./unsorted/sky.png)
 
+# unsorted/small_house_by_the_lake.png
+![](./unsorted/small_house_by_the_lake.png)
 
-## clouds-moon-anime.jpg
-![](clouds-moon-anime.jpg)
+# unsorted/train-station-winter.png
+![](./unsorted/train-station-winter.png)
 
+# unsorted/Xero-Plasma1.png
+![](./unsorted/Xero-Plasma1.png)
 
-## Colors.png
-![](Colors.png)
+# unsorted/Xero-Plasma33.png
+![](./unsorted/Xero-Plasma33.png)
 
+# gruvbox/a_boat_on_the_water.jpg
+![](./gruvbox/a_boat_on_the_water.jpg)
 
-## dark_forest.png
-![](dark_forest.png)
+# gruvbox/a_close_up_of_moss_on_a_branch.jpg
+![](./gruvbox/a_close_up_of_moss_on_a_branch.jpg)
 
+# gruvbox/a_forest_with_moss_and_trees.jpg
+![](./gruvbox/a_forest_with_moss_and_trees.jpg)
 
-## deer_and_sunset.jpg
-![](deer_and_sunset.jpg)
+# gruvbox/a_group_of_light_bulbs_from_the_ceiling.jpg
+![](./gruvbox/a_group_of_light_bulbs_from_the_ceiling.jpg)
 
+# gruvbox/a_light_bulb_from_the_ceiling_01.jpg
+![](./gruvbox/a_light_bulb_from_the_ceiling_01.jpg)
 
-## deer_glade.jpg
-![](deer_glade.jpg)
+# gruvbox/a_river_running_through_a_forest.jpg
+![](./gruvbox/a_river_running_through_a_forest.jpg)
 
+# gruvbox/a_river_running_through_a_rocky_canyon.jpg
+![](./gruvbox/a_river_running_through_a_rocky_canyon.jpg)
 
-## deer_in_pine_forest.jpg
-![](deer_in_pine_forest.jpg)
+# gruvbox/a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg
+![](./gruvbox/a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg)
 
+# gruvbox/a_stone_stairs_in_a_forest.jpg
+![](./gruvbox/a_stone_stairs_in_a_forest.jpg)
 
-## deer_in_woods_theme_blue.jpg
-![](deer_in_woods_theme_blue.jpg)
+# gruvbox/a_stream_in_the_woods.jpg
+![](./gruvbox/a_stream_in_the_woods.jpg)
 
+# gruvbox/anna-scarfiello-Pxf5syDVuxQ.jpg
+![](./gruvbox/anna-scarfiello-Pxf5syDVuxQ.jpg)
 
-## deer_in_woods_theme_purple.jpg
-![](deer_in_woods_theme_purple.jpg)
+# gruvbox/artificial-brain.jpg
+![](./gruvbox/artificial-brain.jpg)
 
+# gruvbox/autumn.jpg
+![](./gruvbox/autumn.jpg)
 
-## degirled.png
-![](degirled.png)
+# gruvbox/berries.jpg
+![](./gruvbox/berries.jpg)
 
+# gruvbox/berries_1.jpg
+![](./gruvbox/berries_1.jpg)
 
-## dino.jpg
-![](dino.jpg)
+# gruvbox/books.jpg
+![](./gruvbox/books.jpg)
 
+# gruvbox/bridge.jpg
+![](./gruvbox/bridge.jpg)
 
-## DKoRY7F.jpeg
-![](DKoRY7F.jpeg)
+# gruvbox/brown_city_planet_w.jpg
+![](./gruvbox/brown_city_planet_w.jpg)
 
+# gruvbox/bulbs.jpg
+![](./gruvbox/bulbs.jpg)
 
-## dock.jpg
-![](dock.jpg)
+# gruvbox/camera-2.jpg
+![](./gruvbox/camera-2.jpg)
 
+# gruvbox/castle.jpg
+![](./gruvbox/castle.jpg)
 
-## earth.png
-![](earth.png)
+# gruvbox/cat-2.jpg
+![](./gruvbox/cat-2.jpg)
 
+# gruvbox/cat.jpg
+![](./gruvbox/cat.jpg)
 
-## enchanted_tree_village.jpg
-![](enchanted_tree_village.jpg)
+# gruvbox/chinese-hills.jpg
+![](./gruvbox/chinese-hills.jpg)
 
+# gruvbox/chris-lawton-5IHz5WhosQE.jpg
+![](./gruvbox/chris-lawton-5IHz5WhosQE.jpg)
 
-## evening.png
-![](evening.png)
+# gruvbox/christmas-toys.jpg
+![](./gruvbox/christmas-toys.jpg)
 
+# gruvbox/clay-banks-Jya99orvzSE.jpg
+![](./gruvbox/clay-banks-Jya99orvzSE.jpg)
 
-## everythings-gonna-be-okay.png
-![](everythings-gonna-be-okay.png)
+# gruvbox/coffee-cup.jpg
+![](./gruvbox/coffee-cup.jpg)
 
+# gruvbox/comfy-room.jpg
+![](./gruvbox/comfy-room.jpg)
 
-## explorer_green_day.jpg
-![](explorer_green_day.jpg)
+# gruvbox/dan-otis-OYFHT4X5isg.jpg
+![](./gruvbox/dan-otis-OYFHT4X5isg.jpg)
 
+# gruvbox/daniel-leone-v7daTKlZzaw.jpg
+![](./gruvbox/daniel-leone-v7daTKlZzaw.jpg)
 
-## fireship-night.jpg
-![](fireship-night.jpg)
+# gruvbox/davide-ragusa-4jcFu1byopQ.jpg
+![](./gruvbox/davide-ragusa-4jcFu1byopQ.jpg)
 
+# gruvbox/dead-robot.jpg
+![](./gruvbox/dead-robot.jpg)
 
-## fisher_on_lake.jpg
-![](fisher_on_lake.jpg)
+# gruvbox/desk-gruvbox-material.jpg
+![](./gruvbox/desk-gruvbox-material.jpg)
 
+# gruvbox/dock.jpg
+![](./gruvbox/dock.jpg)
 
-## flower-1.jpg
-![](flower-1.jpg)
+# gruvbox/felix-bacher--jEEnRx38wo.jpg
+![](./gruvbox/felix-bacher--jEEnRx38wo.jpg)
 
+# gruvbox/ferns-green.jpg
+![](./gruvbox/ferns-green.jpg)
 
-## flower_branch.png
-![](flower_branch.png)
+# gruvbox/flower-1.jpg
+![](./gruvbox/flower-1.jpg)
 
+# gruvbox/flower-1_1.jpg
+![](./gruvbox/flower-1_1.jpg)
 
-## flowers-2.jpg
-![](flowers-2.jpg)
+# gruvbox/flowers-2.jpg
+![](./gruvbox/flowers-2.jpg)
 
+# gruvbox/flowers-2_1.jpg
+![](./gruvbox/flowers-2_1.jpg)
 
-## forest-foggy-misty-cloudy.png
-![](forest-foggy-misty-cloudy.png)
+# gruvbox/fly_agaric_mushroom_fall_foliage_117318_1920x1080.jpg
+![](./gruvbox/fly_agaric_mushroom_fall_foliage_117318_1920x1080.jpg)
 
+# gruvbox/forest-2.jpg
+![](./gruvbox/forest-2.jpg)
 
-## forest.jpeg
-![](forest.jpeg)
+# gruvbox/forest-3.jpg
+![](./gruvbox/forest-3.jpg)
 
+# gruvbox/forest-4.jpg
+![](./gruvbox/forest-4.jpg)
 
-## fox_on_rock.jpg
-![](fox_on_rock.jpg)
+# gruvbox/forest-5.jpg
+![](./gruvbox/forest-5.jpg)
 
+# gruvbox/forest-6.jpg
+![](./gruvbox/forest-6.jpg)
 
-## frieren-fern-reading.jpg
-![](frieren-fern-reading.jpg)
+# gruvbox/forest-7.jpg
+![](./gruvbox/forest-7.jpg)
 
+# gruvbox/forest-cabin.jpg
+![](./gruvbox/forest-cabin.jpg)
 
-## frieren-looking-back.jpg
-![](frieren-looking-back.jpg)
+# gruvbox/forest.jpg
+![](./gruvbox/forest.jpg)
 
+# gruvbox/future-town.jpg
+![](./gruvbox/future-town.jpg)
 
-## future-town.jpg
-![](future-town.jpg)
+# gruvbox/ganapathy-kumar-JxBcs2O6-C0.jpg
+![](./gruvbox/ganapathy-kumar-JxBcs2O6-C0.jpg)
 
+# gruvbox/girl.jpg
+![](./gruvbox/girl.jpg)
 
-## fying-boat.jpg
-![](fying-boat.jpg)
+# gruvbox/grass.jpg
+![](./gruvbox/grass.jpg)
 
+# gruvbox/gruvbox-forest.jpg
+![](./gruvbox/gruvbox-forest.jpg)
 
-## ghibli-japanese-walled-garden.png
-![](ghibli-japanese-walled-garden.png)
+# gruvbox/gruvbox_spac.jpg
+![](./gruvbox/gruvbox_spac.jpg)
 
+# gruvbox/gruvy-night.jpg
+![](./gruvbox/gruvy-night.jpg)
 
-## girl-hood-ears.png
-![](girl-hood-ears.png)
+# gruvbox/house.jpg
+![](./gruvbox/house.jpg)
 
+# gruvbox/houseonthesideofalake.jpg
+![](./gruvbox/houseonthesideofalake.jpg)
 
-## greenbus.jpg
-![](greenbus.jpg)
+# gruvbox/hut-2.jpg
+![](./gruvbox/hut-2.jpg)
 
+# gruvbox/hut.jpg
+![](./gruvbox/hut.jpg)
 
-## gruvbox-nix.png
-![](gruvbox-nix.png)
+# gruvbox/jake-weirick-EsvpmQ4zp5Y.jpg
+![](./gruvbox/jake-weirick-EsvpmQ4zp5Y.jpg)
 
+# gruvbox/jakub-sejkora-utqJcneoFjo.jpg
+![](./gruvbox/jakub-sejkora-utqJcneoFjo.jpg)
 
-## house-magical-cat
-![](house-magical-cat)
+# gruvbox/jars.jpg
+![](./gruvbox/jars.jpg)
 
+# gruvbox/jeremy-hynes-_RnbxS6vUb8.jpg
+![](./gruvbox/jeremy-hynes-_RnbxS6vUb8.jpg)
 
-## houses.jpg
-![](houses.jpg)
+# gruvbox/johannes-plenio-RwHv7LgeC7s.jpg
+![](./gruvbox/johannes-plenio-RwHv7LgeC7s.jpg)
 
+# gruvbox/jonas-denil-_PKzBUfuhgg.jpg
+![](./gruvbox/jonas-denil-_PKzBUfuhgg.jpg)
 
-## hue-teo-3.jpg
-![](hue-teo-3.jpg)
+# gruvbox/kace-rodriguez-p3OzJuT_Dks.jpg
+![](./gruvbox/kace-rodriguez-p3OzJuT_Dks.jpg)
 
+# gruvbox/kateryna-sheliuk-6gI-RJ_WsHk.jpg
+![](./gruvbox/kateryna-sheliuk-6gI-RJ_WsHk.jpg)
 
-## hue-teo-king-arthur-set-211.jpg
-![](hue-teo-king-arthur-set-211.jpg)
+# gruvbox/kateryna-sheliuk-efMADvDQvEg.jpg
+![](./gruvbox/kateryna-sheliuk-efMADvDQvEg.jpg)
 
+# gruvbox/keyboards.jpg
+![](./gruvbox/keyboards.jpg)
 
-## hummingbird.jpg
-![](hummingbird.jpg)
+# gruvbox/lantern.jpg
+![](./gruvbox/lantern.jpg)
 
+# gruvbox/lantern_1.jpg
+![](./gruvbox/lantern_1.jpg)
 
-## ign-waifu.png
-![](ign-waifu.png)
+# gruvbox/leaves-2.jpg
+![](./gruvbox/leaves-2.jpg)
 
+# gruvbox/leaves-2_1.jpg
+![](./gruvbox/leaves-2_1.jpg)
 
-## jonas_nilsson_lee.jpg
-![](jonas_nilsson_lee.jpg)
+# gruvbox/leaves-2_1_1.jpg
+![](./gruvbox/leaves-2_1_1.jpg)
 
+# gruvbox/lights.jpg
+![](./gruvbox/lights.jpg)
 
-## lake_mountain_trees.jpeg
-![](lake_mountain_trees.jpeg)
+# gruvbox/maciek-sulkowski-fJ-22PLNGvE.jpg
+![](./gruvbox/maciek-sulkowski-fJ-22PLNGvE.jpg)
 
+# gruvbox/more-coffee.jpg
+![](./gruvbox/more-coffee.jpg)
 
-## lake_mountains_sunset.jpg
-![](lake_mountains_sunset.jpg)
+# gruvbox/morskie_oko.jpg
+![](./gruvbox/morskie_oko.jpg)
 
+# gruvbox/moss.jpg
+![](./gruvbox/moss.jpg)
 
-## lantern.jpg
-![](lantern.jpg)
+# gruvbox/rails-2.jpg
+![](./gruvbox/rails-2.jpg)
 
+# gruvbox/rails.jpg
+![](./gruvbox/rails.jpg)
 
-## leaves-2.jpg
-![](leaves-2.jpg)
+# gruvbox/railway.jpg
+![](./gruvbox/railway.jpg)
 
+# gruvbox/river.jpg
+![](./gruvbox/river.jpg)
 
-## leaves-2_1.jpg
-![](leaves-2_1.jpg)
+# gruvbox/road-2.jpg
+![](./gruvbox/road-2.jpg)
 
+# gruvbox/road.jpg
+![](./gruvbox/road.jpg)
 
-## leaves-wall.png
-![](leaves-wall.png)
+# gruvbox/room.jpg
+![](./gruvbox/room.jpg)
 
+# gruvbox/rose.jpg
+![](./gruvbox/rose.jpg)
 
-## little_nap.png
-![](little_nap.png)
+# gruvbox/ruines.jpg
+![](./gruvbox/ruines.jpg)
 
+# gruvbox/saso-tusar-s-k-2N90yuY.jpg
+![](./gruvbox/saso-tusar-s-k-2N90yuY.jpg)
 
-## lonely-girl.png
-![](lonely-girl.png)
+# gruvbox/satellite.jpg
+![](./gruvbox/satellite.jpg)
 
+# gruvbox/satellite_1.jpg
+![](./gruvbox/satellite_1.jpg)
 
-## long-cabin-forest.jpg
-![](long-cabin-forest.jpg)
+# gruvbox/solar-system.jpg
+![](./gruvbox/solar-system.jpg)
 
+# gruvbox/spaceship_maze.jpg
+![](./gruvbox/spaceship_maze.jpg)
 
-## lovely_summer.jpg
-![](lovely_summer.jpg)
+# gruvbox/staircase.jpg
+![](./gruvbox/staircase.jpg)
 
+# gruvbox/stairs.jpg
+![](./gruvbox/stairs.jpg)
 
-## macaw.jpg
-![](macaw.jpg)
+# gruvbox/sunforest.jpg
+![](./gruvbox/sunforest.jpg)
 
+# gruvbox/sunforest_1.jpg
+![](./gruvbox/sunforest_1.jpg)
 
-## manga-lake.png
-![](manga-lake.png)
+# gruvbox/timbers.jpg
+![](./gruvbox/timbers.jpg)
 
+# gruvbox/tools.jpg
+![](./gruvbox/tools.jpg)
 
-## messed-up-room.png
-![](messed-up-room.png)
+# gruvbox/traf-ukTd6UiQbLQ.jpg
+![](./gruvbox/traf-ukTd6UiQbLQ.jpg)
 
+# gruvbox/train_tracks_in_a_forest.jpg
+![](./gruvbox/train_tracks_in_a_forest.jpg)
 
-## mocha-hald8-1396456.png
-![](mocha-hald8-1396456.png)
+# gruvbox/typewriter.jpg
+![](./gruvbox/typewriter.jpg)
 
+# gruvbox/vadim-sherbakov-NQSWvyVRIJk.jpg
+![](./gruvbox/vadim-sherbakov-NQSWvyVRIJk.jpg)
 
-## morskie_oko.jpg
-![](morskie_oko.jpg)
+# gruvbox/waterfall-3.jpg
+![](./gruvbox/waterfall-3.jpg)
 
+# gruvbox/wet_boards.jpg
+![](./gruvbox/wet_boards.jpg)
 
-## mountain.jpg
-![](mountain.jpg)
+# gruvbox/wet_plants_green.jpg
+![](./gruvbox/wet_plants_green.jpg)
 
+# gruvbox/wolf.jpg
+![](./gruvbox/wolf.jpg)
 
-## mountains_trees_lake.jpg
-![](mountains_trees_lake.jpg)
+# gruvbox/wolf_1.jpg
+![](./gruvbox/wolf_1.jpg)
 
+# gruvbox/wood.jpg
+![](./gruvbox/wood.jpg)
 
-## my-neighbor-totoro-sunflowers.png
-![](my-neighbor-totoro-sunflowers.png)
+# gruvbox/woods.jpg
+![](./gruvbox/woods.jpg)
 
+# gruvbox/xavier-cuenca-w4-3.jpg
+![](./gruvbox/xavier-cuenca-w4-3.jpg)
 
-## mystic-shush.png
-![](mystic-shush.png)
+# gruvbox/xavier-cuenca-w4-3_1.jpg
+![](./gruvbox/xavier-cuenca-w4-3_1.jpg)
 
+# tokyonight/a_building_and_trees_at_night.jpg
+![](./tokyonight/a_building_and_trees_at_night.jpg)
 
-## nature-lake.png
-![](nature-lake.png)
+# tokyonight/a_moon_and_clouds_at_night.jpg
+![](./tokyonight/a_moon_and_clouds_at_night.jpg)
 
+# tokyonight/astronaut.jpg
+![](./tokyonight/astronaut.jpg)
 
-## nix-black.png
-![](nix-black.png)
+# tokyonight/blue-bridge.jpg
+![](./tokyonight/blue-bridge.jpg)
 
+# tokyonight/blue-wolf.jpg
+![](./tokyonight/blue-wolf.jpg)
 
-## nix_light.png
-![](nix_light.png)
+# tokyonight/city_on_water.jpg
+![](./tokyonight/city_on_water.jpg)
 
+# tokyonight/climber.jpg
+![](./tokyonight/climber.jpg)
 
-## not-so-gruv-city.jpg
-![](not-so-gruv-city.jpg)
+# tokyonight/fisher_on_lake.jpg
+![](./tokyonight/fisher_on_lake.jpg)
 
+# tokyonight/fying-boat.jpg
+![](./tokyonight/fying-boat.jpg)
 
-## on_the_road.jpg
-![](on_the_road.jpg)
+# tokyonight/plants-blue-sky.jpg
+![](./tokyonight/plants-blue-sky.jpg)
 
+# tokyonight/pong.jpg
+![](./tokyonight/pong.jpg)
 
-## orthvrq3xgb91.jpg
-![](orthvrq3xgb91.jpg)
+# tokyonight/samurai.jpg
+![](./tokyonight/samurai.jpg)
 
+# tokyonight/stars.jpg
+![](./tokyonight/stars.jpg)
 
-## pastelgirl.png
-![](pastelgirl.png)
+# tokyonight/sunset.jpg
+![](./tokyonight/sunset.jpg)
 
+# tokyonight/urban_architecture.jpg
+![](./tokyonight/urban_architecture.jpg)
 
-## PJbX0MG.png
-![](PJbX0MG.png)
+# tokyonight/Xero-Plasma3.jpg
+![](./tokyonight/Xero-Plasma3.jpg)
 
+# tokyonight/Xero-Plasma41.jpg
+![](./tokyonight/Xero-Plasma41.jpg)
 
-## plants-blue-sky.jpg
-![](plants-blue-sky.jpg)
+# unsorted/86-lena.jpg
+![](./unsorted/86-lena.jpg)
 
+# unsorted/a_beach_with_trees_on_the_side.jpg
+![](./unsorted/a_beach_with_trees_on_the_side.jpg)
 
-## pong.jpg
-![](pong.jpg)
+# unsorted/a_bed_with_a_view_of_trees_outside.jpg
+![](./unsorted/a_bed_with_a_view_of_trees_outside.jpg)
 
+# unsorted/a_bird_on_a_branch.jpg
+![](./unsorted/a_bird_on_a_branch.jpg)
 
-## samurai.jpg
-![](samurai.jpg)
+# unsorted/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg
+![](./unsorted/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg)
 
+# unsorted/a_cartoon_of_a_whale_flying_over_a_road.jpg
+![](./unsorted/a_cartoon_of_a_whale_flying_over_a_road.jpg)
 
-## satellite.jpg
-![](satellite.jpg)
+# unsorted/a_cartoon_of_a_woman_holding_a_cup.jpg
+![](./unsorted/a_cartoon_of_a_woman_holding_a_cup.jpg)
 
+# unsorted/a_foggy_landscape_with_trees_and_grass.jpg
+![](./unsorted/a_foggy_landscape_with_trees_and_grass.jpg)
 
-## sergey-savvin-forest-night.jpg
-![](sergey-savvin-forest-night.jpg)
+# unsorted/a_group_of_men_standing_on_a_beach.jpg
+![](./unsorted/a_group_of_men_standing_on_a_beach.jpg)
 
+# unsorted/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg
+![](./unsorted/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg)
 
-## sergey-savvin-forest1.jpg
-![](sergey-savvin-forest1.jpg)
+# unsorted/a_road_leading_to_mountains.jpg
+![](./unsorted/a_road_leading_to_mountains.jpg)
 
+# unsorted/a_road_with_lights_on_the_side_of_a_body_of_water.jpg
+![](./unsorted/a_road_with_lights_on_the_side_of_a_body_of_water.jpg)
 
-## sky.png
-![](sky.png)
+# unsorted/ameenfahmy-mXpTl4jNKiA.jpg
+![](./unsorted/ameenfahmy-mXpTl4jNKiA.jpg)
 
+# unsorted/among-us.jpg
+![](./unsorted/among-us.jpg)
 
-## small_house_by_the_lake.png
-![](small_house_by_the_lake.png)
+# unsorted/anime_girl_with_curtains.jpg
+![](./unsorted/anime_girl_with_curtains.jpg)
 
+# unsorted/building-rain.jpg
+![](./unsorted/building-rain.jpg)
 
-## solar-system.jpg
-![](solar-system.jpg)
+# unsorted/castle.jpg
+![](./unsorted/castle.jpg)
 
+# unsorted/classroom.jpg
+![](./unsorted/classroom.jpg)
 
-## spaceship_maze.jpg
-![](spaceship_maze.jpg)
+# unsorted/Clearday.jpg
+![](./unsorted/Clearday.jpg)
 
+# unsorted/clouds-moon-anime.jpg
+![](./unsorted/clouds-moon-anime.jpg)
 
-## sport-field.jpg
-![](sport-field.jpg)
+# unsorted/deer_and_sunset.jpg
+![](./unsorted/deer_and_sunset.jpg)
 
+# unsorted/deer_glade.jpg
+![](./unsorted/deer_glade.jpg)
 
-## staircase.jpg
-![](staircase.jpg)
+# unsorted/deer_in_pine_forest.jpg
+![](./unsorted/deer_in_pine_forest.jpg)
 
+# unsorted/deer_in_woods_theme_blue.jpg
+![](./unsorted/deer_in_woods_theme_blue.jpg)
 
-## stairs.jpg
-![](stairs.jpg)
+# unsorted/deer_in_woods_theme_purple.jpg
+![](./unsorted/deer_in_woods_theme_purple.jpg)
 
+# unsorted/dino.jpg
+![](./unsorted/dino.jpg)
 
-## stars.jpg
-![](stars.jpg)
+# unsorted/drawing-white-girl.jpg
+![](./unsorted/drawing-white-girl.jpg)
 
+# unsorted/enchanted_tree_village.jpg
+![](./unsorted/enchanted_tree_village.jpg)
 
-## sunforest.jpg
-![](sunforest.jpg)
+# unsorted/explorer_green_day.jpg
+![](./unsorted/explorer_green_day.jpg)
 
+# unsorted/fireship-night.jpg
+![](./unsorted/fireship-night.jpg)
 
-## sunset_by_the_pier.jpg
-![](sunset_by_the_pier.jpg)
+# unsorted/fox_on_rock.jpg
+![](./unsorted/fox_on_rock.jpg)
 
+# unsorted/frieren-fern-reading.jpg
+![](./unsorted/frieren-fern-reading.jpg)
 
-## train-station-winter
-![](train-station-winter)
+# unsorted/frieren-looking-back.jpg
+![](./unsorted/frieren-looking-back.jpg)
 
+# unsorted/garrett-parker-DlkF4-dbCOU.jpg
+![](./unsorted/garrett-parker-DlkF4-dbCOU.jpg)
 
-## train_tracks_in_a_forest.jpg
-![](train_tracks_in_a_forest.jpg)
+# unsorted/greenbus.jpg
+![](./unsorted/greenbus.jpg)
 
+# unsorted/hannu-keski-hakuni-vgxIfXwsUAE.jpg
+![](./unsorted/hannu-keski-hakuni-vgxIfXwsUAE.jpg)
 
-## tree-sunny.png
-![](tree-sunny.png)
+# unsorted/houses.jpg
+![](./unsorted/houses.jpg)
 
+# unsorted/hue-teo-3.jpg
+![](./unsorted/hue-teo-3.jpg)
 
-## water_droplets_on_a_puddle.png
-![](water_droplets_on_a_puddle.png)
+# unsorted/hue-teo-king-arthur-set-211.jpg
+![](./unsorted/hue-teo-king-arthur-set-211.jpg)
 
+# unsorted/hummingbird.jpg
+![](./unsorted/hummingbird.jpg)
 
-## wet_boards.jpg
-![](wet_boards.jpg)
+# unsorted/jonas_nilsson_lee.jpg
+![](./unsorted/jonas_nilsson_lee.jpg)
 
+# unsorted/lake_mountains_sunset.jpg
+![](./unsorted/lake_mountains_sunset.jpg)
 
-## wet_plants_green.jpg
-![](wet_plants_green.jpg)
+# unsorted/long-cabin-forest.jpg
+![](./unsorted/long-cabin-forest.jpg)
 
+# unsorted/lovely_summer.jpg
+![](./unsorted/lovely_summer.jpg)
 
-## window.png
-![](window.png)
+# unsorted/macaw.jpg
+![](./unsorted/macaw.jpg)
 
+# unsorted/mountain.jpg
+![](./unsorted/mountain.jpg)
 
-## wolf.jpg
-![](wolf.jpg)
+# unsorted/mountains_trees_lake.jpg
+![](./unsorted/mountains_trees_lake.jpg)
 
+# unsorted/not-so-gruv-city.jpg
+![](./unsorted/not-so-gruv-city.jpg)
 
-## wood_cabin.png
-![](wood_cabin.png)
+# unsorted/on_the_road.jpg
+![](./unsorted/on_the_road.jpg)
 
+# unsorted/orthvrq3xgb91.jpg
+![](./unsorted/orthvrq3xgb91.jpg)
 
-## xavier-cuenca-w4-3.jpg
-![](xavier-cuenca-w4-3.jpg)
+# unsorted/sergey-savvin-forest-night.jpg
+![](./unsorted/sergey-savvin-forest-night.jpg)
 
+# unsorted/sergey-savvin-forest1.jpg
+![](./unsorted/sergey-savvin-forest1.jpg)
 
-## Xero-Plasma1.png
-![](Xero-Plasma1.png)
+# unsorted/sport-field.jpg
+![](./unsorted/sport-field.jpg)
 
+# unsorted/sunset-beach.jpg
+![](./unsorted/sunset-beach.jpg)
 
-## Xero-Plasma3.jpg
-![](Xero-Plasma3.jpg)
+# unsorted/sunset_by_the_pier.jpg
+![](./unsorted/sunset_by_the_pier.jpg)
 
+# unsorted/The-Wind-Rises.jpg
+![](./unsorted/The-Wind-Rises.jpg)
 
-## Xero-Plasma25.jpg
-![](Xero-Plasma25.jpg)
+# unsorted/Xero-Plasma25.jpg
+![](./unsorted/Xero-Plasma25.jpg)
 
+# unsorted/Xero-Plasma34.jpg
+![](./unsorted/Xero-Plasma34.jpg)
 
-## Xero-Plasma33.png
-![](Xero-Plasma33.png)
+# unsorted/Xero-Plasma35.jpg
+![](./unsorted/Xero-Plasma35.jpg)
 
+# unsorted/Xero-Plasma36.jpg
+![](./unsorted/Xero-Plasma36.jpg)
 
-## Xero-Plasma34.jpg
-![](Xero-Plasma34.jpg)
+# unsorted/Xero-Plasma37.jpg
+![](./unsorted/Xero-Plasma37.jpg)
 
+# unsorted/Xero-Plasma40.jpg
+![](./unsorted/Xero-Plasma40.jpg)
 
-## Xero-Plasma35.jpg
-![](Xero-Plasma35.jpg)
+# unsorted/Xero-Plasma42.jpg
+![](./unsorted/Xero-Plasma42.jpg)
 
+# unsorted/Xero-Plasma44.jpg
+![](./unsorted/Xero-Plasma44.jpg)
 
-## Xero-Plasma36.jpg
-![](Xero-Plasma36.jpg)
+# gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg
+![](./gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg)
 
+# gruvbox/DKoRY7F.jpeg
+![](./gruvbox/DKoRY7F.jpeg)
 
-## Xero-Plasma37.jpg
-![](Xero-Plasma37.jpg)
+# unsorted/forest.jpeg
+![](./unsorted/forest.jpeg)
 
-
-## Xero-Plasma40.jpg
-![](Xero-Plasma40.jpg)
-
-
-## Xero-Plasma41.jpg
-![](Xero-Plasma41.jpg)
-
-
-## Xero-Plasma42.jpg
-![](Xero-Plasma42.jpg)
-
-
-## Xero-Plasma44.jpg
-![](Xero-Plasma44.jpg)
+# unsorted/lake_mountain_trees.jpeg
+![](./unsorted/lake_mountain_trees.jpeg)
 
