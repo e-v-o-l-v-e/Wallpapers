@@ -3,1075 +3,1060 @@
 fish command to generate readme
 
 ```fish
-for f in **.{png,jpg,jpeg}
-    echo "## $f" | string replace -ar "[-_]" " " | string replace -r "\.(png)|(jpg)|(jpeg)" "" >> README.md
+for f in walls/*.{png,jpg,jpeg}
+    echo "## $f" | string replace "walls/" "" | string replace -ar "[-_]" " " | string replace -r "\.(png)|(jpg)|(jpeg)" "" >> README.md
     echo "![](./$f)" >> README.md
     echo "" >> README.md
 end
-
 ```
-## funny/a screenshot of a computer
-![](./funny/a_screenshot_of_a_computer.png)
 
-## funny/this wallpaper is not available
-![](./funny/this-wallpaper-is-not-available.png)
+## a blue and grey logo
+![](./walls/a_blue_and_grey_logo.png)
 
-## funny/wallpaper
-![](./funny/wallpaper.png)
+## a cartoon of a woman diving into a large wave
+![](./walls/a_cartoon_of_a_woman_diving_into_a_large_wave.png)
 
-## funny/war in space
-![](./funny/war-in-space.png)
+## a city skyline with a plane in the sky
+![](./walls/a_city_skyline_with_a_plane_in_the_sky.png)
 
-## gruvbox/a city skyline with a plane in the sky
-![](./gruvbox/a_city_skyline_with_a_plane_in_the_sky.png)
+## a couple of people standing on a mountain
+![](./walls/a_couple_of_people_standing_on_a_mountain.png)
 
-## gruvbox/a house in the woods
-![](./gruvbox/a_house_in_the_woods.png)
+## a house in the snow
+![](./walls/a_house_in_the_snow.png)
 
-## gruvbox/a lake with trees and clouds
-![](./gruvbox/a_lake_with_trees_and_clouds.png)
+## a house in the woods
+![](./walls/a_house_in_the_woods.png)
 
-## gruvbox/ALLqk82
-![](./gruvbox/ALLqk82.png)
+## a lake with trees and clouds
+![](./walls/a_lake_with_trees_and_clouds.png)
 
-## gruvbox/anime skull
-![](./gruvbox/anime_skull.png)
+## a person in the air above a city
+![](./walls/a_person_in_the_air_above_a_city.png)
 
-## gruvbox/animeskull
-![](./gruvbox/animeskull.png)
+## a person on a bicycle on a railing with a city in the background
+![](./walls/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png)
 
-## gruvbox/astronaut 3
-![](./gruvbox/astronaut-3.png)
+## a person standing on a broken object in a field with a large white moon
+![](./walls/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
 
-## gruvbox/atoms
-![](./gruvbox/atoms.png)
+## a pond with lily pads and a wooden fence
+![](./walls/a_pond_with_lily_pads_and_a_wooden_fence.png)
 
-## gruvbox/beach
-![](./gruvbox/beach.png)
+## a screenshot of a computer
+![](./walls/a_screenshot_of_a_computer.png)
 
-## gruvbox/bird
-![](./gruvbox/bird.png)
+## a tower in a forest
+![](./walls/a_tower_in_a_forest.png)
 
-## gruvbox/birds
-![](./gruvbox/birds.png)
+## a woman sitting in a chair under a tent
+![](./walls/a_woman_sitting_in_a_chair_under_a_tent.png)
 
-## gruvbox/black hole
-![](./gruvbox/black-hole.png)
+## an astronaut playing a piano
+![](./walls/an_astronaut_playing_a_piano.png)
 
-## gruvbox/burnout
-![](./gruvbox/burnout.png)
+## anime skull
+![](./walls/anime_skull.png)
 
-## gruvbox/bush
-![](./gruvbox/bush.png)
+## animeskull
+![](./walls/animeskull.png)
 
-## gruvbox/cabin forest
-![](./gruvbox/cabin-forest.png)
+## arctic city
+![](./walls/arctic-city.png)
 
-## gruvbox/cactus
-![](./gruvbox/cactus.png)
+## astronaut 2
+![](./walls/astronaut-2.png)
 
-## gruvbox/camera
-![](./gruvbox/camera.png)
+## astronaut 3
+![](./walls/astronaut-3.png)
 
-## gruvbox/cat coffee
-![](./gruvbox/cat-coffee.png)
+## atoms
+![](./walls/atoms.png)
 
-## gruvbox/cherry blossom
-![](./gruvbox/cherry-blossom.png)
+## beach
+![](./walls/beach.png)
 
-## gruvbox/code blocks light
-![](./gruvbox/code_blocks_light.png)
+## bird
+![](./walls/bird.png)
 
-## gruvbox/coding 2
-![](./gruvbox/coding-2.png)
+## birds
+![](./walls/birds.png)
 
-## gruvbox/Colors
-![](./gruvbox/Colors.png)
+## black hole
+![](./walls/black-hole.png)
 
-## gruvbox/cozy greenhouse library
-![](./gruvbox/cozy-greenhouse-library.png)
+## blue crane
+![](./walls/blue-crane.png)
 
-## gruvbox/cyber asian girl 1080
-![](./gruvbox/cyber-asian-girl-1080.png)
+## blue landscape
+![](./walls/blue-landscape.png)
 
-## gruvbox/debian grey swirl
-![](./gruvbox/debian_grey_swirl.png)
+## bunnies road
+![](./walls/bunnies-road.png)
 
-## gruvbox/DemonChild
-![](./gruvbox/DemonChild.png)
+## burnout
+![](./walls/burnout.png)
 
-## gruvbox/dock
-![](./gruvbox/dock.png)
+## bush
+![](./walls/bush.png)
 
-## gruvbox/door
-![](./gruvbox/door.png)
+## cabin forest
+![](./walls/cabin-forest.png)
 
-## gruvbox/forest foggy misty cloudy
-![](./gruvbox/forest-foggy-misty-cloudy.png)
+## cabin night
+![](./walls/cabin_night.png)
 
-## gruvbox/forest moss
-![](./gruvbox/forest-moss.png)
+## cactus
+![](./walls/cactus.png)
 
-## gruvbox/girl 2
-![](./gruvbox/girl-2.png)
+## camera
+![](./walls/camera.png)
 
-## gruvbox/girl reading book
-![](./gruvbox/girl-reading-book.png)
+## castle
+![](./walls/castle.png)
 
-## gruvbox/gruv dev minimal
-![](./gruvbox/gruv-dev-minimal.png)
+## cat coffee
+![](./walls/cat-coffee.png)
 
-## gruvbox/gruv estimate
-![](./gruvbox/gruv-estimate.png)
+## cherry blossom
+![](./walls/cherry-blossom.png)
 
-## gruvbox/gruv mistakes
-![](./gruvbox/gruv-mistakes.png)
+## Clearnight
+![](./walls/Clearnight.png)
 
-## gruvbox/gruv portal cake
-![](./gruvbox/gruv-portal-cake.png)
+## code blocks light
+![](./walls/code_blocks_light.png)
 
-## gruvbox/gruvbox linux
-![](./gruvbox/gruvbox-linux.png)
+## coding 2
+![](./walls/coding-2.png)
 
-## gruvbox/gruvbox nix
-![](./gruvbox/gruvbox-nix.png)
+## Colors
+![](./walls/Colors.png)
 
-## gruvbox/gruvbox rainbow nix
-![](./gruvbox/gruvbox-rainbow-nix.png)
+## corals fish underwater
+![](./walls/corals-fish-underwater.png)
 
-## gruvbox/gruvbox image11
-![](./gruvbox/gruvbox_image11.png)
+## cottages river
+![](./walls/cottages-river.png)
 
-## gruvbox/gruvbox image31
-![](./gruvbox/gruvbox_image31.png)
+## cozy greenhouse library
+![](./walls/cozy-greenhouse-library.png)
 
-## gruvbox/gruvbox image46
-![](./gruvbox/gruvbox_image46.png)
+## cyber asian girl 1080
+![](./walls/cyber-asian-girl-1080.png)
 
-## gruvbox/gruvbox minimal space
-![](./gruvbox/gruvbox_minimal_space.png)
+## dark forest
+![](./walls/dark-forest.png)
 
-## gruvbox/harmony
-![](./gruvbox/harmony.png)
+## dark forest
+![](./walls/dark_forest.png)
 
-## gruvbox/herb notebook
-![](./gruvbox/herb-notebook.png)
+## debian grey swirl
+![](./walls/debian_grey_swirl.png)
 
-## gruvbox/house garden
-![](./gruvbox/house-garden.png)
+## deer glade
+![](./walls/deer-glade.png)
 
-## gruvbox/image21
-![](./gruvbox/image21.png)
+## degirled 2
+![](./walls/degirled-2.png)
 
-## gruvbox/Knights
-![](./gruvbox/Knights.png)
+## degirled
+![](./walls/degirled.png)
 
-## gruvbox/landscape
-![](./gruvbox/landscape.png)
+## DemonChild
+![](./walls/DemonChild.png)
 
-## gruvbox/leaves wall
-![](./gruvbox/leaves-wall.png)
+## dock
+![](./walls/dock.png)
 
-## gruvbox/moss forest
-![](./gruvbox/moss-forest.png)
+## door
+![](./walls/door.png)
 
-## gruvbox/mountain village
-![](./gruvbox/mountain-village.png)
+## droplets
+![](./walls/droplets.png)
 
-## gruvbox/Pages
-![](./gruvbox/Pages.png)
+## earth
+![](./walls/earth.png)
 
-## gruvbox/philosophy
-![](./gruvbox/philosophy.png)
+## evening
+![](./walls/evening.png)
 
-## gruvbox/PJbX0MG
-![](./gruvbox/PJbX0MG.png)
+## excalibur lake
+![](./walls/excalibur-lake.png)
 
-## gruvbox/rain
-![](./gruvbox/rain.png)
+## Fantasy Lake
+![](./walls/Fantasy-Lake.png)
 
-## gruvbox/rocket
-![](./gruvbox/rocket.png)
+## flower branch
+![](./walls/flower_branch.png)
 
-## gruvbox/rubiks cube
-![](./gruvbox/rubiks-cube.png)
+## forest foggy misty cloudy
+![](./walls/forest-foggy-misty-cloudy.png)
 
-## gruvbox/samurai
-![](./gruvbox/samurai.png)
+## forest moss
+![](./walls/forest-moss.png)
 
-## gruvbox/Sif
-![](./gruvbox/Sif.png)
+## forest castle
+![](./walls/forest_castle.png)
 
-## gruvbox/Suki
-![](./gruvbox/Suki.png)
+## frieren gruvbox
+![](./walls/frieren_gruvbox.png)
 
-## gruvbox/Tranquility
-![](./gruvbox/Tranquility.png)
+## ghibli japanese walled garden
+![](./walls/ghibli-japanese-walled-garden.png)
 
-## gruvbox/tree sunny
-![](./gruvbox/tree-sunny.png)
+## girl 2
+![](./walls/girl-2.png)
 
-## gruvbox/wallhaven x1oddl
-![](./gruvbox/wallhaven-x1oddl.png)
+## girl reading book
+![](./walls/girl-reading-book.png)
 
-## gruvbox/warm forest
-![](./gruvbox/warm_forest.png)
+## gruv dev minimal
+![](./walls/gruv-dev-minimal.png)
 
-## gruvbox/water droplets on a puddle
-![](./gruvbox/water_droplets_on_a_puddle.png)
+## gruv estimate
+![](./walls/gruv-estimate.png)
 
-## gruvbox/window
-![](./gruvbox/window.png)
+## gruv mistakes
+![](./walls/gruv-mistakes.png)
 
-## gruvbox/wood cabin
-![](./gruvbox/wood_cabin.png)
+## gruv portal cake
+![](./walls/gruv-portal-cake.png)
 
-## tokyonight/a blue and grey logo
-![](./tokyonight/a_blue_and_grey_logo.png)
+## gruvbox linux
+![](./walls/gruvbox-linux.png)
 
-## tokyonight/a cartoon of a woman diving into a large wave
-![](./tokyonight/a_cartoon_of_a_woman_diving_into_a_large_wave.png)
+## gruvbox nix
+![](./walls/gruvbox-nix.png)
 
-## tokyonight/a couple of people standing on a mountain
-![](./tokyonight/a_couple_of_people_standing_on_a_mountain.png)
+## gruvbox rainbow nix
+![](./walls/gruvbox-rainbow-nix.png)
 
-## tokyonight/a house in the snow
-![](./tokyonight/a_house_in_the_snow.png)
+## gruvbox image11
+![](./walls/gruvbox_image11.png)
 
-## tokyonight/a person in the air above a city
-![](./tokyonight/a_person_in_the_air_above_a_city.png)
+## gruvbox image31
+![](./walls/gruvbox_image31.png)
 
-## tokyonight/a person on a bicycle on a railing with a city in the background
-![](./tokyonight/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png)
+## gruvbox image46
+![](./walls/gruvbox_image46.png)
 
-## tokyonight/a tower in a forest
-![](./tokyonight/a_tower_in_a_forest.png)
+## gruvbox minimal space
+![](./walls/gruvbox_minimal_space.png)
 
-## tokyonight/an astronaut playing a piano
-![](./tokyonight/an_astronaut_playing_a_piano.png)
+## harmony
+![](./walls/harmony.png)
 
-## tokyonight/arctic city
-![](./tokyonight/arctic-city.png)
+## herb notebook
+![](./walls/herb-notebook.png)
 
-## tokyonight/blue crane
-![](./tokyonight/blue-crane.png)
+## hollow knight
+![](./walls/hollow_knight.png)
 
-## tokyonight/Clearnight
-![](./tokyonight/Clearnight.png)
+## house garden
+![](./walls/house-garden.png)
 
-## tokyonight/dark forest
-![](./tokyonight/dark_forest.png)
+## house magical cat
+![](./walls/house-magical-cat.png)
 
-## tokyonight/ign waifu
-![](./tokyonight/ign-waifu.png)
+## ign waifu
+![](./walls/ign-waifu.png)
 
-## tokyonight/mocha hald8 1396456
-![](./tokyonight/mocha-hald8-1396456.png)
+## image21
+![](./walls/image21.png)
 
-## tokyonight/nix black
-![](./tokyonight/nix-black.png)
+## Knights
+![](./walls/Knights.png)
 
-## tokyonight/nix light
-![](./tokyonight/nix_light.png)
+## landscape
+![](./walls/landscape.png)
 
-## tokyonight/nord ign moon raven
-![](./tokyonight/nord-ign_moon_raven.png)
+## leaves wall
+![](./walls/leaves-wall.png)
 
-## tokyonight/pastelgirl
-![](./tokyonight/pastelgirl.png)
+## little nap
+![](./walls/little_nap.png)
 
-## unsorted/a body of water with a lit up tower in the middle
-![](./unsorted/a_body_of_water_with_a_lit_up_tower_in_the_middle.png)
+## lonely girl
+![](./walls/lonely-girl.png)
 
-## unsorted/a car in a field with trees and a fire
-![](./unsorted/a_car_in_a_field_with_trees_and_a_fire.png)
+## lost village
+![](./walls/lost_village.png)
 
-## unsorted/a car on a road with purple clouds in the sky
-![](./unsorted/a_car_on_a_road_with_purple_clouds_in_the_sky.png)
+## mocha hald8 1396456
+![](./walls/mocha-hald8-1396456.png)
 
-## unsorted/a cartoon of a girl holding a bouquet of flowers
-![](./unsorted/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png)
+## moss forest
+![](./walls/moss-forest.png)
 
-## unsorted/a cartoon of a house on a cliff
-![](./unsorted/a_cartoon_of_a_house_on_a_cliff.png)
+## mountain village
+![](./walls/mountain-village.png)
 
-## unsorted/a close up of a plant
-![](./unsorted/a_close_up_of_a_plant.png)
+## my neighbor totoro sunflowers
+![](./walls/my-neighbor-totoro-sunflowers.png)
 
-## unsorted/a person standing on a broken object in a field with a large white moon
-![](./unsorted/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png)
+## mystic shush
+![](./walls/mystic-shush.png)
 
-## unsorted/a pond with lily pads and a wooden fence
-![](./unsorted/a_pond_with_lily_pads_and_a_wooden_fence.png)
+## nature lake
+![](./walls/nature-lake.png)
 
-## unsorted/a woman sitting in a chair under a tent
-![](./unsorted/a_woman_sitting_in_a_chair_under_a_tent.png)
+## nix black
+![](./walls/nix-black.png)
 
-## unsorted/astronaut 2
-![](./unsorted/astronaut-2.png)
+## nix light
+![](./walls/nix_light.png)
 
-## unsorted/castle
-![](./unsorted/castle.png)
+## nord ign moon raven
+![](./walls/nord-ign_moon_raven.png)
 
-## unsorted/degirled
-![](./unsorted/degirled.png)
+## Pages
+![](./walls/Pages.png)
 
-## unsorted/earth
-![](./unsorted/earth.png)
+## pastelgirl
+![](./walls/pastelgirl.png)
 
-## unsorted/evening
-![](./unsorted/evening.png)
+## philosophy
+![](./walls/philosophy.png)
 
-## unsorted/everythings gonna be okay
-![](./unsorted/everythings-gonna-be-okay.png)
+## PJbX0MG
+![](./walls/PJbX0MG.png)
 
-## unsorted/Fantasy Lake
-![](./unsorted/Fantasy-Lake.png)
+## rain
+![](./walls/rain.png)
 
-## unsorted/flower branch
-![](./unsorted/flower_branch.png)
+## rocket
+![](./walls/rocket.png)
 
-## unsorted/forest castle
-![](./unsorted/forest_castle.png)
+## rubiks cube
+![](./walls/rubiks-cube.png)
 
-## unsorted/frieren gruvbox
-![](./unsorted/frieren_gruvbox.png)
+## samurai
+![](./walls/samurai.png)
 
-## unsorted/ghibli japanese walled garden
-![](./unsorted/ghibli-japanese-walled-garden.png)
+## satellites
+![](./walls/satellites.png)
 
-## unsorted/girl hood ears
-![](./unsorted/girl-hood-ears.png)
+## Sif
+![](./walls/Sif.png)
 
-## unsorted/house magical cat
-![](./unsorted/house-magical-cat.png)
+## sky
+![](./walls/sky.png)
 
-## unsorted/little nap
-![](./unsorted/little_nap.png)
+## small house by the lake
+![](./walls/small_house_by_the_lake.png)
 
-## unsorted/lonely girl
-![](./unsorted/lonely-girl.png)
+## Suki
+![](./walls/Suki.png)
 
-## unsorted/manga lake
-![](./unsorted/manga-lake.png)
+## this wallpaper is not available
+![](./walls/this-wallpaper-is-not-available.png)
 
-## unsorted/messed up room
-![](./unsorted/messed-up-room.png)
+## train station winter
+![](./walls/train-station-winter.png)
 
-## unsorted/my neighbor totoro sunflowers
-![](./unsorted/my-neighbor-totoro-sunflowers.png)
+## Tranquility
+![](./walls/Tranquility.png)
 
-## unsorted/mystic shush
-![](./unsorted/mystic-shush.png)
+## tree sunny
+![](./walls/tree-sunny.png)
 
-## unsorted/nature lake
-![](./unsorted/nature-lake.png)
+## wallhaven x1oddl
+![](./walls/wallhaven-x1oddl.png)
 
-## unsorted/nord valley
-![](./unsorted/nord_valley.png)
+## wallpaper
+![](./walls/wallpaper.png)
 
-## unsorted/satellites
-![](./unsorted/satellites.png)
+## war in space
+![](./walls/war-in-space.png)
 
-## unsorted/sky
-![](./unsorted/sky.png)
+## warm forest
+![](./walls/warm_forest.png)
 
-## unsorted/small house by the lake
-![](./unsorted/small_house_by_the_lake.png)
+## water droplets on a puddle
+![](./walls/water_droplets_on_a_puddle.png)
 
-## unsorted/train lake
-![](./unsorted/train-lake.png)
+## window
+![](./walls/window.png)
 
-## unsorted/train station winter
-![](./unsorted/train-station-winter.png)
+## wood cabin
+![](./walls/wood_cabin.png)
 
-## unsorted/wallhaven wed2qq
-![](./unsorted/wallhaven-wed2qq.png)
+## Xero Plasma1
+![](./walls/Xero-Plasma1.png)
 
-## unsorted/Xero Plasma1
-![](./unsorted/Xero-Plasma1.png)
+## Xero Plasma33
+![](./walls/Xero-Plasma33.png)
 
-## unsorted/Xero Plasma33
-![](./unsorted/Xero-Plasma33.png)
+## a beach with trees on the side.
+![](./walls/a_beach_with_trees_on_the_side.jpg)
 
-## gruvbox/a beach with trees on the side.
-![](./gruvbox/a_beach_with_trees_on_the_side.jpg)
+## a bed with a view of trees outside.
+![](./walls/a_bed_with_a_view_of_trees_outside.jpg)
 
-## gruvbox/a bed with a view of trees outside.
-![](./gruvbox/a_bed_with_a_view_of_trees_outside.jpg)
+## a black sky with white dots.
+![](./walls/a_black_sky_with_white_dots.jpg)
 
-## gruvbox/a black sky with white dots.
-![](./gruvbox/a_black_sky_with_white_dots.jpg)
+## a boat on the water.
+![](./walls/a_boat_on_the_water.jpg)
 
-## gruvbox/a boat on the water.
-![](./gruvbox/a_boat_on_the_water.jpg)
+## a building and trees at night.
+![](./walls/a_building_and_trees_at_night.jpg)
 
-## gruvbox/a cartoon of a island with a bridge and trees.
-![](./gruvbox/a_cartoon_of_a_island_with_a_bridge_and_trees.jpg)
+## a car on a road with orange clouds in the sky.
+![](./walls/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg)
 
-## gruvbox/a close up of moss on a branch.
-![](./gruvbox/a_close_up_of_moss_on_a_branch.jpg)
+## a cartoon of a girl with blue hair and a skull.
+![](./walls/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg)
 
-## gruvbox/a foggy landscape with trees and grass.
-![](./gruvbox/a_foggy_landscape_with_trees_and_grass.jpg)
+## a cartoon of a island with a bridge and trees.
+![](./walls/a_cartoon_of_a_island_with_a_bridge_and_trees.jpg)
 
-## gruvbox/a forest with moss and trees.
-![](./gruvbox/a_forest_with_moss_and_trees.jpg)
+## a cartoon of a whale flying over a road.
+![](./walls/a_cartoon_of_a_whale_flying_over_a_road.jpg)
 
-## gruvbox/a group of light bulbs from the ceiling.
-![](./gruvbox/a_group_of_light_bulbs_from_the_ceiling.jpg)
+## a cartoon of a woman holding a cup.
+![](./walls/a_cartoon_of_a_woman_holding_a_cup.jpg)
 
-## gruvbox/a house on stilts on a lake.
-![](./gruvbox/a_house_on_stilts_on_a_lake.jpg)
+## a close up of moss on a branch.
+![](./walls/a_close_up_of_moss_on_a_branch.jpg)
 
-## gruvbox/a light bulb from the ceiling 01.
-![](./gruvbox/a_light_bulb_from_the_ceiling_01.jpg)
+## a foggy landscape with trees and grass.
+![](./walls/a_foggy_landscape_with_trees_and_grass.jpg)
 
-## gruvbox/a pile of rocks.
-![](./gruvbox/a_pile_of_rocks.jpg)
+## a forest with moss and trees.
+![](./walls/a_forest_with_moss_and_trees.jpg)
 
-## gruvbox/a river running through a forest.
-![](./gruvbox/a_river_running_through_a_forest.jpg)
+## a group of light bulbs from the ceiling.
+![](./walls/a_group_of_light_bulbs_from_the_ceiling.jpg)
 
-## gruvbox/a river running through a rocky canyon.
-![](./gruvbox/a_river_running_through_a_rocky_canyon.jpg)
+## a house on stilts on a lake.
+![](./walls/a_house_on_stilts_on_a_lake.jpg)
 
-## gruvbox/a stairs leading to a rocky canyon with Flume Gorge in the background.
-![](./gruvbox/a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg)
+## a light bulb from the ceiling 01.
+![](./walls/a_light_bulb_from_the_ceiling_01.jpg)
 
-## gruvbox/a stone stairs in a forest.
-![](./gruvbox/a_stone_stairs_in_a_forest.jpg)
+## a lighthouse with a large cloud of pink clouds.
+![](./walls/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg)
 
-## gruvbox/a stream in the woods.
-![](./gruvbox/a_stream_in_the_woods.jpg)
+## a moon and clouds at night.
+![](./walls/a_moon_and_clouds_at_night.jpg)
 
-## gruvbox/a street with buildings and a street light.
-![](./gruvbox/a_street_with_buildings_and_a_street_light.jpg)
+## a music stand with a book on it.
+![](./walls/a_music_stand_with_a_book_on_it.jpg)
 
-## gruvbox/anna scarfiello Pxf5syDVuxQ.
-![](./gruvbox/anna-scarfiello-Pxf5syDVuxQ.jpg)
+## a person on a beach.
+![](./walls/a_person_on_a_beach.jpg)
 
-## gruvbox/artificial brain.
-![](./gruvbox/artificial-brain.jpg)
+## a pile of rocks.
+![](./walls/a_pile_of_rocks.jpg)
 
-## gruvbox/autumn.
-![](./gruvbox/autumn.jpg)
+## a river running through a forest.
+![](./walls/a_river_running_through_a_forest.jpg)
 
-## gruvbox/berries.
-![](./gruvbox/berries.jpg)
+## a road leading to mountains.
+![](./walls/a_road_leading_to_mountains.jpg)
 
-## gruvbox/books.
-![](./gruvbox/books.jpg)
+## a stairs leading to a rocky canyon with Flume Gorge in the background.
+![](./walls/a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg)
 
-## gruvbox/bridge.
-![](./gruvbox/bridge.jpg)
+## a stone stairs in a forest.
+![](./walls/a_stone_stairs_in_a_forest.jpg)
 
-## gruvbox/bridgle forest bus.
-![](./gruvbox/bridgle_forest_bus.jpg)
+## a stream in the woods.
+![](./walls/a_stream_in_the_woods.jpg)
 
-## gruvbox/brown city planet w.
-![](./gruvbox/brown_city_planet_w.jpg)
+## a street with buildings and a street light.
+![](./walls/a_street_with_buildings_and_a_street_light.jpg)
 
-## gruvbox/bulbs.
-![](./gruvbox/bulbs.jpg)
+## aamis.
+![](./walls/aamis.jpg)
 
-## gruvbox/camera 2.
-![](./gruvbox/camera-2.jpg)
+## among us.
+![](./walls/among-us.jpg)
 
-## gruvbox/castle.
-![](./gruvbox/castle.jpg)
+## anime girl with curtains.
+![](./walls/anime_girl_with_curtains.jpg)
 
-## gruvbox/cat 2.
-![](./gruvbox/cat-2.jpg)
+## anna scarfiello Pxf5syDVuxQ.
+![](./walls/anna-scarfiello-Pxf5syDVuxQ.jpg)
 
-## gruvbox/cat.
-![](./gruvbox/cat.jpg)
+## artificial brain.
+![](./walls/artificial-brain.jpg)
 
-## gruvbox/chinese hills.
-![](./gruvbox/chinese-hills.jpg)
+## astronaut.
+![](./walls/astronaut.jpg)
 
-## gruvbox/chris lawton 5IHz5WhosQE.
-![](./gruvbox/chris-lawton-5IHz5WhosQE.jpg)
+## berries.
+![](./walls/berries.jpg)
 
-## gruvbox/christmas toys.
-![](./gruvbox/christmas-toys.jpg)
+## black city night.
+![](./walls/black_city_night.jpg)
 
-## gruvbox/clay banks Jya99orvzSE.
-![](./gruvbox/clay-banks-Jya99orvzSE.jpg)
+## blue bridge.
+![](./walls/blue-bridge.jpg)
 
-## gruvbox/coffee cup.
-![](./gruvbox/coffee-cup.jpg)
+## blue wolf.
+![](./walls/blue-wolf.jpg)
 
-## gruvbox/comfy room.
-![](./gruvbox/comfy-room.jpg)
+## boat abondoned.
+![](./walls/boat_abondoned.jpg)
 
-## gruvbox/dan otis OYFHT4X5isg.
-![](./gruvbox/dan-otis-OYFHT4X5isg.jpg)
+## books.
+![](./walls/books.jpg)
 
-## gruvbox/daniel leone v7daTKlZzaw.
-![](./gruvbox/daniel-leone-v7daTKlZzaw.jpg)
+## bridge.
+![](./walls/bridge.jpg)
 
-## gruvbox/davide ragusa 4jcFu1byopQ.
-![](./gruvbox/davide-ragusa-4jcFu1byopQ.jpg)
+## bridgle forest bus.
+![](./walls/bridgle_forest_bus.jpg)
 
-## gruvbox/dead robot.
-![](./gruvbox/dead-robot.jpg)
+## brown city planet w.
+![](./walls/brown_city_planet_w.jpg)
 
-## gruvbox/desk gruvbox material.
-![](./gruvbox/desk-gruvbox-material.jpg)
+## building rain.
+![](./walls/building-rain.jpg)
 
-## gruvbox/felix bacher  jEEnRx38wo.
-![](./gruvbox/felix-bacher--jEEnRx38wo.jpg)
+## bulbs.
+![](./walls/bulbs.jpg)
 
-## gruvbox/ferns green.
-![](./gruvbox/ferns-green.jpg)
+## camera 2.
+![](./walls/camera-2.jpg)
 
-## gruvbox/flower 1.
-![](./gruvbox/flower-1.jpg)
+## car on mars.
+![](./walls/car_on_mars.jpg)
 
-## gruvbox/flowers 2.
-![](./gruvbox/flowers-2.jpg)
+## castle.
+![](./walls/castle.jpg)
 
-## gruvbox/fly agaric mushroom fall foliage 117318 1920x1080.
-![](./gruvbox/fly_agaric_mushroom_fall_foliage_117318_1920x1080.jpg)
+## cat 2.
+![](./walls/cat-2.jpg)
 
-## gruvbox/forest 2.
-![](./gruvbox/forest-2.jpg)
+## cat.
+![](./walls/cat.jpg)
 
-## gruvbox/forest 3.
-![](./gruvbox/forest-3.jpg)
+## chinese hills.
+![](./walls/chinese-hills.jpg)
 
-## gruvbox/forest 4.
-![](./gruvbox/forest-4.jpg)
+## chris lawton 5IHz5WhosQE.
+![](./walls/chris-lawton-5IHz5WhosQE.jpg)
 
-## gruvbox/forest 5.
-![](./gruvbox/forest-5.jpg)
+## city on water.
+![](./walls/city_on_water.jpg)
 
-## gruvbox/forest 7.
-![](./gruvbox/forest-7.jpg)
+## classroom.
+![](./walls/classroom.jpg)
 
-## gruvbox/forest cabin.
-![](./gruvbox/forest-cabin.jpg)
+## clay banks Jya99orvzSE.
+![](./walls/clay-banks-Jya99orvzSE.jpg)
 
-## gruvbox/forest.
-![](./gruvbox/forest.jpg)
+## Clearday.
+![](./walls/Clearday.jpg)
 
-## gruvbox/future town.
-![](./gruvbox/future-town.jpg)
+## climber.
+![](./walls/climber.jpg)
 
-## gruvbox/ganapathy kumar JxBcs2O6 C0.
-![](./gruvbox/ganapathy-kumar-JxBcs2O6-C0.jpg)
+## clouds moon anime.
+![](./walls/clouds-moon-anime.jpg)
 
-## gruvbox/girl.
-![](./gruvbox/girl.jpg)
+## coffee cup.
+![](./walls/coffee-cup.jpg)
 
-## gruvbox/grass.
-![](./gruvbox/grass.jpg)
+## comfy room.
+![](./walls/comfy-room.jpg)
 
-## gruvbox/gruvbox forest.
-![](./gruvbox/gruvbox-forest.jpg)
+## cyberpunk edgerunners lucy.
+![](./walls/cyberpunk-edgerunners-lucy.jpg)
 
-## gruvbox/gruvbox spac.
-![](./gruvbox/gruvbox_spac.jpg)
+## dan otis OYFHT4X5isg.
+![](./walls/dan-otis-OYFHT4X5isg.jpg)
 
-## gruvbox/gruvy night.
-![](./gruvbox/gruvy-night.jpg)
+## daniel leone v7daTKlZzaw.
+![](./walls/daniel-leone-v7daTKlZzaw.jpg)
 
-## gruvbox/house.
-![](./gruvbox/house.jpg)
+## dark forest snow path.
+![](./walls/dark_forest_snow_path.jpg)
 
-## gruvbox/houseonthesideofalake.
-![](./gruvbox/houseonthesideofalake.jpg)
+## davide ragusa 4jcFu1byopQ.
+![](./walls/davide-ragusa-4jcFu1byopQ.jpg)
 
-## gruvbox/hut 2.
-![](./gruvbox/hut-2.jpg)
+## dead robot.
+![](./walls/dead-robot.jpg)
 
-## gruvbox/hut.
-![](./gruvbox/hut.jpg)
+## deer and sunset.
+![](./walls/deer_and_sunset.jpg)
 
-## gruvbox/jake weirick EsvpmQ4zp5Y.
-![](./gruvbox/jake-weirick-EsvpmQ4zp5Y.jpg)
+## deer in pine forest.
+![](./walls/deer_in_pine_forest.jpg)
 
-## gruvbox/jakub sejkora utqJcneoFjo.
-![](./gruvbox/jakub-sejkora-utqJcneoFjo.jpg)
+## deer in woods theme blue.
+![](./walls/deer_in_woods_theme_blue.jpg)
 
-## gruvbox/jars.
-![](./gruvbox/jars.jpg)
+## deer in woods theme purple.
+![](./walls/deer_in_woods_theme_purple.jpg)
 
-## gruvbox/jeremy hynes  RnbxS6vUb8.
-![](./gruvbox/jeremy-hynes-_RnbxS6vUb8.jpg)
+## desk gruvbox material.
+![](./walls/desk-gruvbox-material.jpg)
 
-## gruvbox/jonas denil  PKzBUfuhgg.
-![](./gruvbox/jonas-denil-_PKzBUfuhgg.jpg)
+## detective spiderman.
+![](./walls/detective-spiderman.jpg)
 
-## gruvbox/kace rodriguez p3OzJuT Dks.
-![](./gruvbox/kace-rodriguez-p3OzJuT_Dks.jpg)
+## dino.
+![](./walls/dino.jpg)
 
-## gruvbox/kateryna sheliuk 6gI RJ WsHk.
-![](./gruvbox/kateryna-sheliuk-6gI-RJ_WsHk.jpg)
+## drawing white girl.
+![](./walls/drawing-white-girl.jpg)
 
-## gruvbox/kateryna sheliuk efMADvDQvEg.
-![](./gruvbox/kateryna-sheliuk-efMADvDQvEg.jpg)
+## enchanted tree village.
+![](./walls/enchanted_tree_village.jpg)
 
-## gruvbox/keyboards.
-![](./gruvbox/keyboards.jpg)
+## explorer green day.
+![](./walls/explorer_green_day.jpg)
 
-## gruvbox/lantern.
-![](./gruvbox/lantern.jpg)
+## felix bacher  jEEnRx38wo.
+![](./walls/felix-bacher--jEEnRx38wo.jpg)
 
-## gruvbox/leaves 2.
-![](./gruvbox/leaves-2.jpg)
+## ferns green.
+![](./walls/ferns-green.jpg)
 
-## gruvbox/lights.
-![](./gruvbox/lights.jpg)
+## fireship night.
+![](./walls/fireship-night.jpg)
 
-## gruvbox/maciek sulkowski fJ 22PLNGvE.
-![](./gruvbox/maciek-sulkowski-fJ-22PLNGvE.jpg)
+## fisher on lake.
+![](./walls/fisher_on_lake.jpg)
 
-## gruvbox/more coffee.
-![](./gruvbox/more-coffee.jpg)
+## flower 1.
+![](./walls/flower-1.jpg)
 
-## gruvbox/morskie oko.
-![](./gruvbox/morskie_oko.jpg)
+## flowers 2.
+![](./walls/flowers-2.jpg)
 
-## gruvbox/moss.
-![](./gruvbox/moss.jpg)
+## fly agaric mushroom fall foliage 117318 1920x1080.
+![](./walls/fly_agaric_mushroom_fall_foliage_117318_1920x1080.jpg)
 
-## gruvbox/Philipp pilz deer.
-![](./gruvbox/Philipp-pilz-deer.jpg)
+## flying boat.
+![](./walls/flying-boat.jpg)
 
-## gruvbox/rails 2.
-![](./gruvbox/rails-2.jpg)
+## forest 2.
+![](./walls/forest-2.jpg)
 
-## gruvbox/rails.
-![](./gruvbox/rails.jpg)
+## forest 3.
+![](./walls/forest-3.jpg)
 
-## gruvbox/railway.
-![](./gruvbox/railway.jpg)
+## forest 4.
+![](./walls/forest-4.jpg)
 
-## gruvbox/river statues landscape.
-![](./gruvbox/river-statues-landscape.jpg)
+## forest 5.
+![](./walls/forest-5.jpg)
 
-## gruvbox/river.
-![](./gruvbox/river.jpg)
+## forest 7.
+![](./walls/forest-7.jpg)
 
-## gruvbox/road 2.
-![](./gruvbox/road-2.jpg)
+## forest cabin.
+![](./walls/forest-cabin.jpg)
 
-## gruvbox/road.
-![](./gruvbox/road.jpg)
+## forest colorfull top.
+![](./walls/forest-colorfull-top.jpg)
 
-## gruvbox/room.
-![](./gruvbox/room.jpg)
+## forest.
+![](./walls/forest.jpg)
 
-## gruvbox/rose.
-![](./gruvbox/rose.jpg)
+## forest dark winter.
+![](./walls/forest_dark_winter.jpg)
 
-## gruvbox/ruines.
-![](./gruvbox/ruines.jpg)
+## forest snow ground.
+![](./walls/forest_snow_ground.jpg)
 
-## gruvbox/samurai.
-![](./gruvbox/samurai.jpg)
+## fox on rock.
+![](./walls/fox_on_rock.jpg)
 
-## gruvbox/saso tusar s k 2N90yuY.
-![](./gruvbox/saso-tusar-s-k-2N90yuY.jpg)
+## frieren fern reading.
+![](./walls/frieren-fern-reading.jpg)
 
-## gruvbox/satellite.
-![](./gruvbox/satellite.jpg)
+## frieren looking back.
+![](./walls/frieren-looking-back.jpg)
 
-## gruvbox/solar system.
-![](./gruvbox/solar-system.jpg)
+## future town.
+![](./walls/future-town.jpg)
 
-## gruvbox/spaceship maze.
-![](./gruvbox/spaceship_maze.jpg)
+## Galaxy.
+![](./walls/Galaxy.jpg)
 
-## gruvbox/staircase.
-![](./gruvbox/staircase.jpg)
+## ganapathy kumar JxBcs2O6 C0.
+![](./walls/ganapathy-kumar-JxBcs2O6-C0.jpg)
 
-## gruvbox/stairs.
-![](./gruvbox/stairs.jpg)
+## garrett parker DlkF4 dbCOU.
+![](./walls/garrett-parker-DlkF4-dbCOU.jpg)
 
-## gruvbox/sunforest.
-![](./gruvbox/sunforest.jpg)
+## girl.
+![](./walls/girl.jpg)
 
-## gruvbox/sunset scenery minimalist.
-![](./gruvbox/sunset-scenery-minimalist.jpg)
+## golden gate bridge fog.
+![](./walls/golden-gate-bridge-fog.jpg)
 
-## gruvbox/Thomas kinkade bridge.
-![](./gruvbox/Thomas-kinkade-bridge.jpg)
+## grass.
+![](./walls/grass.jpg)
 
-## gruvbox/timbers.
-![](./gruvbox/timbers.jpg)
+## greenbus.
+![](./walls/greenbus.jpg)
 
-## gruvbox/tools.
-![](./gruvbox/tools.jpg)
+## gruvbox forest.
+![](./walls/gruvbox-forest.jpg)
 
-## gruvbox/traf ukTd6UiQbLQ.
-![](./gruvbox/traf-ukTd6UiQbLQ.jpg)
+## gruvbox spac.
+![](./walls/gruvbox_spac.jpg)
 
-## gruvbox/train tracks in a forest.
-![](./gruvbox/train_tracks_in_a_forest.jpg)
+## gruvy night.
+![](./walls/gruvy-night.jpg)
 
-## gruvbox/tron ares.
-![](./gruvbox/tron-ares.jpg)
+## hannu keski hakuni vgxIfXwsUAE.
+![](./walls/hannu-keski-hakuni-vgxIfXwsUAE.jpg)
 
-## gruvbox/typewriter.
-![](./gruvbox/typewriter.jpg)
+## hollow kngith quirell city of tears.
+![](./walls/hollow_kngith_quirell_city_of_tears.jpg)
 
-## gruvbox/vadim sherbakov NQSWvyVRIJk.
-![](./gruvbox/vadim-sherbakov-NQSWvyVRIJk.jpg)
+## hollow knight blue flower.
+![](./walls/hollow_knight_blue_flower.jpg)
 
-## gruvbox/wallhaven o5zx65.
-![](./gruvbox/wallhaven-o5zx65.jpg)
+## hollow knight city of tears statue.
+![](./walls/hollow_knight_city_of_tears_statue.jpg)
 
-## gruvbox/waterfall 3.
-![](./gruvbox/waterfall-3.jpg)
+## hollow knight lake sit quirrel.
+![](./walls/hollow_knight_lake_sit_quirrel.jpg)
 
-## gruvbox/wet boards.
-![](./gruvbox/wet_boards.jpg)
+## hollow knight looking at the horizon.
+![](./walls/hollow_knight_looking_at_the_horizon.jpg)
 
-## gruvbox/wet plants green.
-![](./gruvbox/wet_plants_green.jpg)
+## hollow knight purple.
+![](./walls/hollow_knight_purple.jpg)
 
-## gruvbox/wolf.
-![](./gruvbox/wolf.jpg)
+## house.
+![](./walls/house.jpg)
 
-## gruvbox/wood.
-![](./gruvbox/wood.jpg)
+## house night snow.
+![](./walls/house_night_snow.jpg)
 
-## gruvbox/Woods.
-![](./gruvbox/Woods.jpg)
+## house snow.
+![](./walls/house_snow.jpg)
 
-## gruvbox/woods.
-![](./gruvbox/woods.jpg)
+## houseonthesideofalake.
+![](./walls/houseonthesideofalake.jpg)
 
-## tokyonight/a building and trees at night.
-![](./tokyonight/a_building_and_trees_at_night.jpg)
+## houses.
+![](./walls/houses.jpg)
 
-## tokyonight/a moon and clouds at night.
-![](./tokyonight/a_moon_and_clouds_at_night.jpg)
+## hue teo 3.
+![](./walls/hue-teo-3.jpg)
 
-## tokyonight/a music stand with a book on it.
-![](./tokyonight/a_music_stand_with_a_book_on_it.jpg)
+## hummingbird.
+![](./walls/hummingbird.jpg)
 
-## tokyonight/astronaut.
-![](./tokyonight/astronaut.jpg)
+## hut 2.
+![](./walls/hut-2.jpg)
 
-## tokyonight/blue bridge.
-![](./tokyonight/blue-bridge.jpg)
+## hut.
+![](./walls/hut.jpg)
 
-## tokyonight/blue wolf.
-![](./tokyonight/blue-wolf.jpg)
+## hut forest snow.
+![](./walls/hut_forest_snow.jpg)
 
-## tokyonight/city on water.
-![](./tokyonight/city_on_water.jpg)
+## jake weirick EsvpmQ4zp5Y.
+![](./walls/jake-weirick-EsvpmQ4zp5Y.jpg)
 
-## tokyonight/climber.
-![](./tokyonight/climber.jpg)
+## japan tower pink.
+![](./walls/japan_tower_pink.jpg)
 
-## tokyonight/fisher on lake.
-![](./tokyonight/fisher_on_lake.jpg)
+## jars.
+![](./walls/jars.jpg)
 
-## tokyonight/fying boat.
-![](./tokyonight/fying-boat.jpg)
+## jeremy hynes  RnbxS6vUb8.
+![](./walls/jeremy-hynes-_RnbxS6vUb8.jpg)
 
-## tokyonight/mountains retreat.
-![](./tokyonight/mountains-retreat.jpg)
+## jonas denil  PKzBUfuhgg.
+![](./walls/jonas-denil-_PKzBUfuhgg.jpg)
 
-## tokyonight/nord scenery.
-![](./tokyonight/nord-scenery.jpg)
+## jonas nilsson lee.
+![](./walls/jonas_nilsson_lee.jpg)
 
-## tokyonight/plants blue sky.
-![](./tokyonight/plants-blue-sky.jpg)
+## kace rodriguez p3OzJuT Dks.
+![](./walls/kace-rodriguez-p3OzJuT_Dks.jpg)
 
-## tokyonight/pong.
-![](./tokyonight/pong.jpg)
+## kateryna sheliuk 6gI RJ WsHk.
+![](./walls/kateryna-sheliuk-6gI-RJ_WsHk.jpg)
 
-## tokyonight/rain girl.
-![](./tokyonight/rain_girl.jpg)
+## kateryna sheliuk efMADvDQvEg.
+![](./walls/kateryna-sheliuk-efMADvDQvEg.jpg)
 
-## tokyonight/samurai.
-![](./tokyonight/samurai.jpg)
+## keyboards.
+![](./walls/keyboards.jpg)
 
-## tokyonight/stars.
-![](./tokyonight/stars.jpg)
+## lake mountains sunset.
+![](./walls/lake_mountains_sunset.jpg)
 
-## tokyonight/sunset.
-![](./tokyonight/sunset.jpg)
+## lantern.
+![](./walls/lantern.jpg)
 
-## tokyonight/urban architecture.
-![](./tokyonight/urban_architecture.jpg)
+## leaves 2.
+![](./walls/leaves-2.jpg)
 
-## tokyonight/Xero Plasma3.
-![](./tokyonight/Xero-Plasma3.jpg)
+## lights.
+![](./walls/lights.jpg)
 
-## tokyonight/Xero Plasma41.
-![](./tokyonight/Xero-Plasma41.jpg)
+## long cabin forest.
+![](./walls/long-cabin-forest.jpg)
 
-## unsorted/86 lena.
-![](./unsorted/86-lena.jpg)
+## lovely summer.
+![](./walls/lovely_summer.jpg)
 
-## unsorted/a beach with trees on the side.
-![](./unsorted/a_beach_with_trees_on_the_side.jpg)
+## macaw.
+![](./walls/macaw.jpg)
 
-## unsorted/a bed with a view of trees outside.
-![](./unsorted/a_bed_with_a_view_of_trees_outside.jpg)
+## maciek sulkowski fJ 22PLNGvE.
+![](./walls/maciek-sulkowski-fJ-22PLNGvE.jpg)
 
-## unsorted/a bird on a branch.
-![](./unsorted/a_bird_on_a_branch.jpg)
+## more coffee.
+![](./walls/more-coffee.jpg)
 
-## unsorted/a car on a road with orange clouds in the sky.
-![](./unsorted/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg)
+## morskie oko.
+![](./walls/morskie_oko.jpg)
 
-## unsorted/a cartoon of a girl holding a cat.
-![](./unsorted/a_cartoon_of_a_girl_holding_a_cat.jpg)
+## moss.
+![](./walls/moss.jpg)
 
-## unsorted/a cartoon of a girl with blue hair and a skull.
-![](./unsorted/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg)
+## mountain dragon pink.
+![](./walls/mountain_dragon_pink.jpg)
 
-## unsorted/a cartoon of a whale flying over a road.
-![](./unsorted/a_cartoon_of_a_whale_flying_over_a_road.jpg)
+## mountain pine snow.
+![](./walls/mountain_pine_snow.jpg)
 
-## unsorted/a cartoon of a woman holding a cup.
-![](./unsorted/a_cartoon_of_a_woman_holding_a_cup.jpg)
+## mountain sunset.
+![](./walls/mountain_sunset.jpg)
 
-## unsorted/a foggy landscape with trees and grass.
-![](./unsorted/a_foggy_landscape_with_trees_and_grass.jpg)
+## mountains trees lake.
+![](./walls/mountains_trees_lake.jpg)
 
-## unsorted/a group of men standing on a beach.
-![](./unsorted/a_group_of_men_standing_on_a_beach.jpg)
+## nord scenery.
+![](./walls/nord-scenery.jpg)
 
-## unsorted/a lighthouse with a large cloud of pink clouds.
-![](./unsorted/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg)
+## on the road.
+![](./walls/on_the_road.jpg)
 
-## unsorted/a person on a beach.
-![](./unsorted/a_person_on_a_beach.jpg)
+## orthvrq3xgb91.
+![](./walls/orthvrq3xgb91.jpg)
 
-## unsorted/a road leading to mountains.
-![](./unsorted/a_road_leading_to_mountains.jpg)
+## Philipp pilz deer.
+![](./walls/Philipp-pilz-deer.jpg)
 
-## unsorted/a road with lights on the side of a body of water.
-![](./unsorted/a_road_with_lights_on_the_side_of_a_body_of_water.jpg)
+## place snow couple.
+![](./walls/place_snow_couple.jpg)
 
-## unsorted/aamis.
-![](./unsorted/aamis.jpg)
+## plants blue sky.
+![](./walls/plants-blue-sky.jpg)
 
-## unsorted/ameenfahmy mXpTl4jNKiA.
-![](./unsorted/ameenfahmy-mXpTl4jNKiA.jpg)
+## pong.
+![](./walls/pong.jpg)
 
-## unsorted/among us.
-![](./unsorted/among-us.jpg)
+## rails 2.
+![](./walls/rails-2.jpg)
 
-## unsorted/anime girl with curtains.
-![](./unsorted/anime_girl_with_curtains.jpg)
+## rails.
+![](./walls/rails.jpg)
 
-## unsorted/boat abondoned.
-![](./unsorted/boat_abondoned.jpg)
+## railway.
+![](./walls/railway.jpg)
 
-## unsorted/building rain.
-![](./unsorted/building-rain.jpg)
+## rain city.
+![](./walls/rain_city.jpg)
 
-## unsorted/car on mars.
-![](./unsorted/car_on_mars.jpg)
+## rain girl.
+![](./walls/rain_girl.jpg)
 
-## unsorted/castle.
-![](./unsorted/castle.jpg)
+## river statues landscape.
+![](./walls/river-statues-landscape.jpg)
 
-## unsorted/classroom.
-![](./unsorted/classroom.jpg)
+## river.
+![](./walls/river.jpg)
 
-## unsorted/Clearday.
-![](./unsorted/Clearday.jpg)
+## road 2.
+![](./walls/road-2.jpg)
 
-## unsorted/clouds moon anime.
-![](./unsorted/clouds-moon-anime.jpg)
+## road.
+![](./walls/road.jpg)
 
-## unsorted/cyberpunk edgerunners lucy.
-![](./unsorted/cyberpunk-edgerunners-lucy.jpg)
+## room.
+![](./walls/room.jpg)
 
-## unsorted/deer and sunset.
-![](./unsorted/deer_and_sunset.jpg)
+## rose.
+![](./walls/rose.jpg)
 
-## unsorted/deer glade.
-![](./unsorted/deer_glade.jpg)
+## ruines.
+![](./walls/ruines.jpg)
 
-## unsorted/deer in pine forest.
-![](./unsorted/deer_in_pine_forest.jpg)
+## samurai.
+![](./walls/samurai.jpg)
 
-## unsorted/deer in woods theme blue.
-![](./unsorted/deer_in_woods_theme_blue.jpg)
+## saso tusar s k 2N90yuY.
+![](./walls/saso-tusar-s-k-2N90yuY.jpg)
 
-## unsorted/deer in woods theme purple.
-![](./unsorted/deer_in_woods_theme_purple.jpg)
+## satellite.
+![](./walls/satellite.jpg)
 
-## unsorted/detective spiderman.
-![](./unsorted/detective-spiderman.jpg)
+## sergey savvin forest night.
+![](./walls/sergey-savvin-forest-night.jpg)
 
-## unsorted/dino.
-![](./unsorted/dino.jpg)
+## sergey savvin forest1.
+![](./walls/sergey-savvin-forest1.jpg)
 
-## unsorted/drawing white girl.
-![](./unsorted/drawing-white-girl.jpg)
+## ship.
+![](./walls/ship.jpg)
 
-## unsorted/enchanted tree village.
-![](./unsorted/enchanted_tree_village.jpg)
+## snow mountain river sunset.
+![](./walls/snow_mountain_river_sunset.jpg)
 
-## unsorted/explorer green day.
-![](./unsorted/explorer_green_day.jpg)
+## snow river sunset.
+![](./walls/snow_river_sunset.jpg)
 
-## unsorted/fireship night.
-![](./unsorted/fireship-night.jpg)
+## snow walk.
+![](./walls/snow_walk.jpg)
 
-## unsorted/forest dark winter.
-![](./unsorted/forest_dark_winter.jpg)
+## solar system.
+![](./walls/solar-system.jpg)
 
-## unsorted/fox on rock.
-![](./unsorted/fox_on_rock.jpg)
+## spaceship maze.
+![](./walls/spaceship_maze.jpg)
 
-## unsorted/frieren fern reading.
-![](./unsorted/frieren-fern-reading.jpg)
+## sport field.
+![](./walls/sport-field.jpg)
 
-## unsorted/frieren looking back.
-![](./unsorted/frieren-looking-back.jpg)
+## staircase.
+![](./walls/staircase.jpg)
 
-## unsorted/Galaxy.
-![](./unsorted/Galaxy.jpg)
+## stairs.
+![](./walls/stairs.jpg)
 
-## unsorted/garrett parker DlkF4 dbCOU.
-![](./unsorted/garrett-parker-DlkF4-dbCOU.jpg)
+## stars.
+![](./walls/stars.jpg)
 
-## unsorted/golden gate bridge fog.
-![](./unsorted/golden-gate-bridge-fog.jpg)
+## stars night sky.
+![](./walls/stars_night_sky.jpg)
 
-## unsorted/greenbus.
-![](./unsorted/greenbus.jpg)
+## sunforest.
+![](./walls/sunforest.jpg)
 
-## unsorted/hannu keski hakuni vgxIfXwsUAE.
-![](./unsorted/hannu-keski-hakuni-vgxIfXwsUAE.jpg)
+## sunset beach.
+![](./walls/sunset-beach.jpg)
 
-## unsorted/houses.
-![](./unsorted/houses.jpg)
+## sunset lookout.
+![](./walls/sunset-lookout.jpg)
 
-## unsorted/hue teo 3.
-![](./unsorted/hue-teo-3.jpg)
+## sunset scenery minimalist.
+![](./walls/sunset-scenery-minimalist.jpg)
 
-## unsorted/hue teo king arthur set 211.
-![](./unsorted/hue-teo-king-arthur-set-211.jpg)
+## sunset.
+![](./walls/sunset.jpg)
 
-## unsorted/hummingbird.
-![](./unsorted/hummingbird.jpg)
+## sunset by the pier.
+![](./walls/sunset_by_the_pier.jpg)
 
-## unsorted/japan tower pink.
-![](./unsorted/japan_tower_pink.jpg)
+## The Wind Rises.
+![](./walls/The-Wind-Rises.jpg)
 
-## unsorted/jonas nilsson lee.
-![](./unsorted/jonas_nilsson_lee.jpg)
+## Thomas kinkade bridge.
+![](./walls/Thomas-kinkade-bridge.jpg)
 
-## unsorted/lake mountains sunset.
-![](./unsorted/lake_mountains_sunset.jpg)
+## timbers.
+![](./walls/timbers.jpg)
 
-## unsorted/long cabin forest.
-![](./unsorted/long-cabin-forest.jpg)
+## tools.
+![](./walls/tools.jpg)
 
-## unsorted/lovely summer.
-![](./unsorted/lovely_summer.jpg)
+## traf ukTd6UiQbLQ.
+![](./walls/traf-ukTd6UiQbLQ.jpg)
 
-## unsorted/macaw.
-![](./unsorted/macaw.jpg)
+## train tracks in a forest.
+![](./walls/train_tracks_in_a_forest.jpg)
 
-## unsorted/mountain.
-![](./unsorted/mountain.jpg)
+## tron ares.
+![](./walls/tron-ares.jpg)
 
-## unsorted/mountain dragon pink.
-![](./unsorted/mountain_dragon_pink.jpg)
+## tropic island evening.
+![](./walls/tropic_island_evening.jpg)
 
-## unsorted/mountain sunset.
-![](./unsorted/mountain_sunset.jpg)
+## two characters black sun.
+![](./walls/two_characters_black_sun.jpg)
 
-## unsorted/mountains trees lake.
-![](./unsorted/mountains_trees_lake.jpg)
+## typewriter.
+![](./walls/typewriter.jpg)
 
-## unsorted/not so gruv city.
-![](./unsorted/not-so-gruv-city.jpg)
+## urban architecture.
+![](./walls/urban_architecture.jpg)
 
-## unsorted/on the road.
-![](./unsorted/on_the_road.jpg)
+## vadim sherbakov NQSWvyVRIJk.
+![](./walls/vadim-sherbakov-NQSWvyVRIJk.jpg)
 
-## unsorted/orthvrq3xgb91.
-![](./unsorted/orthvrq3xgb91.jpg)
+## wallhaven o5zx65.
+![](./walls/wallhaven-o5zx65.jpg)
 
-## unsorted/rain city.
-![](./unsorted/rain_city.jpg)
+## waterfall 3.
+![](./walls/waterfall-3.jpg)
 
-## unsorted/sergey savvin forest night.
-![](./unsorted/sergey-savvin-forest-night.jpg)
+## wet boards.
+![](./walls/wet_boards.jpg)
 
-## unsorted/sergey savvin forest1.
-![](./unsorted/sergey-savvin-forest1.jpg)
+## wet plants green.
+![](./walls/wet_plants_green.jpg)
 
-## unsorted/ship.
-![](./unsorted/ship.jpg)
+## wolf.
+![](./walls/wolf.jpg)
 
-## unsorted/sport field.
-![](./unsorted/sport-field.jpg)
+## wood.
+![](./walls/wood.jpg)
 
-## unsorted/sunset beach.
-![](./unsorted/sunset-beach.jpg)
+## Woods.
+![](./walls/Woods.jpg)
 
-## unsorted/sunset lookout.
-![](./unsorted/sunset-lookout.jpg)
+## woods.
+![](./walls/woods.jpg)
 
-## unsorted/sunset by the pier.
-![](./unsorted/sunset_by_the_pier.jpg)
+## Xero Plasma3.
+![](./walls/Xero-Plasma3.jpg)
 
-## unsorted/The Wind Rises.
-![](./unsorted/The-Wind-Rises.jpg)
+## Xero Plasma25.
+![](./walls/Xero-Plasma25.jpg)
 
-## unsorted/tropic island evening.
-![](./unsorted/tropic_island_evening.jpg)
+## Xero Plasma34.
+![](./walls/Xero-Plasma34.jpg)
 
-## unsorted/Valley.
-![](./unsorted/Valley.jpg)
+## Xero Plasma35.
+![](./walls/Xero-Plasma35.jpg)
 
-## unsorted/Xero Plasma25.
-![](./unsorted/Xero-Plasma25.jpg)
+## Xero Plasma36.
+![](./walls/Xero-Plasma36.jpg)
 
-## unsorted/Xero Plasma34.
-![](./unsorted/Xero-Plasma34.jpg)
+## Xero Plasma37.
+![](./walls/Xero-Plasma37.jpg)
 
-## unsorted/Xero Plasma35.
-![](./unsorted/Xero-Plasma35.jpg)
+## Xero Plasma40.
+![](./walls/Xero-Plasma40.jpg)
 
-## unsorted/Xero Plasma36.
-![](./unsorted/Xero-Plasma36.jpg)
+## Xero Plasma41.
+![](./walls/Xero-Plasma41.jpg)
 
-## unsorted/Xero Plasma37.
-![](./unsorted/Xero-Plasma37.jpg)
+## Xero Plasma42.
+![](./walls/Xero-Plasma42.jpg)
 
-## unsorted/Xero Plasma40.
-![](./unsorted/Xero-Plasma40.jpg)
+## a bookshelf with lights from the ceiling.
+![](./walls/a_bookshelf_with_lights_from_the_ceiling.jpeg)
 
-## unsorted/Xero Plasma42.
-![](./unsorted/Xero-Plasma42.jpg)
+## burning cherry.
+![](./walls/burning_cherry.jpeg)
 
-## unsorted/Xero Plasma44.
-![](./unsorted/Xero-Plasma44.jpg)
+## forest.
+![](./walls/forest.jpeg)
 
-## fantasy/frieren tree.
-![](./fantasy/frieren-tree.jpeg)
+## lake mountain trees.
+![](./walls/lake_mountain_trees.jpeg)
 
-## gruvbox/a bookshelf with lights from the ceiling.
-![](./gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg)
-
-## gruvbox/burning cherry.
-![](./gruvbox/burning_cherry.jpeg)
-
-## unsorted/forest.
-![](./unsorted/forest.jpeg)
-
-## unsorted/lake mountain trees.
-![](./unsorted/lake_mountain_trees.jpeg)
-
-## unsorted/montain.
-![](./unsorted/montain.jpeg)
+## montain.
+![](./walls/montain.jpeg)
 
